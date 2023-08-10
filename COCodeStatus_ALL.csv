@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-08-07
+,,,,,,2023-08-08
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -2784,8 +2784,8 @@
 249,581,"Available",,,,
 249,582,"Available",,,,
 249,583,"Available",,,,
-249,584,"Available",,,,
-249,585,"Available",,,,
+249,584,"Assigned","McKellar","Fibernetics Corporation","464D",
+249,585,"Assigned","Parry Sound","Fibernetics Corporation","464D",
 249,586,"Available",,,,
 249,587,"Available",,,,
 249,588,"In Service","Beaverton","Rogers Communications Canada Inc.","571G",
@@ -29604,7 +29604,7 @@
 672,201,"In Service","Agassiz","ISP Telecom","4727",
 672,202,"In Service","Cache Creek","Iristel Inc.","154E",
 672,203,"In Service","Cache Creek","Iristel Inc.","154E",
-672,204,"Available",,,,
+672,204,"Assigned","Victoria","Freedom Mobile Inc.","383F",
 672,205,"Available",,,,
 672,206,"Available",,,,
 672,207,"Available",,,,
