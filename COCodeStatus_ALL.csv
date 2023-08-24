@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-08-21
+,,,,,,2023-08-22
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -9805,7 +9805,7 @@
 367,402,"Available",,,,
 367,403,"Assigned","Quebec","Iristel Inc.","154E",
 367,404,"Assigned","Quebec","Iristel Inc.","154E",
-367,405,"Available",,,,
+367,405,"Assigned","Quebec","Iristel Inc.","154E",
 367,406,"Available",,,,
 367,407,"Available",,,,
 367,408,"Available",,,,
@@ -17142,8 +17142,8 @@
 438,539,"Available",,,,
 438,540,"In Service","Montreal","Videotron Ltd.","328F",
 438,541,"In Service","Montreal","Videotron Ltd.","328F",
-438,542,"Assigned","Montreal","Videotron Ltd.","328F",
-438,543,"Assigned","Montreal","Videotron Ltd.","328F",
+438,542,"In Service","Montreal","Videotron Ltd.","328F",
+438,543,"In Service","Montreal","Videotron Ltd.","328F",
 438,544,"In Service","Montreal","Iristel Inc.","154E",
 438,545,"Available",,,,
 438,546,"Available",,,,
@@ -17512,7 +17512,7 @@
 438,909,"Assigned","Montreal","Iristel Inc.","154E",
 438,910,"Assigned","Montreal","Iristel Inc.","154E",
 438,911,"For Special Use",,,,"Emergency Service"
-438,912,"Available",,,,
+438,912,"Assigned","Montreal","Iristel Inc.","154E",
 438,913,"Available",,,,
 438,914,"Available",,,,
 438,915,"Available",,,,
@@ -20090,14 +20090,14 @@
 506,287,"In Service","Edmundston","Bragg Communications Inc.","4878",
 506,288,"In Service","Saint John","Rogers Communications Canada Inc. (Cable)","743B",
 506,289,"In Service","Fredericton","Bell Mobility Aliant","329A",
-506,290,"Available",,,,
+506,290,"Assigned","Edmundston","Bragg Communications Inc.","421G",
 506,291,"In Service","Bouctouche","Rogers Communications Canada Inc. (Wireless)","8821",
 506,292,"In Service","Fredericton","Rogers Communications Canada Inc. (Wireless)","8821",
-506,293,"Available",,,,
+506,293,"Assigned","Grand Falls","Bragg Communications Inc.","421G",
 506,294,"In Service","Moncton","Bragg Communications Inc.","421G",
 506,295,"In Service","Moncton","Bragg Communications Inc.","421G",
 506,296,"Available",,,,
-506,297,"Available",,,,"Available outside the Sackville EAS area"
+506,297,"Assigned","Tracadie","Bragg Communications Inc.","421G","Available outside the Sackville EAS area"
 506,298,"Available",,,,
 506,299,"In Service","Memramcook","Rogers Communications Canada Inc.","571G",
 506,300,"In Service","Fredericton","Iristel Inc.","154E",
