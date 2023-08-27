@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-08-24
+,,,,,,2023-08-25
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -9279,7 +9279,7 @@
 365,676,"Available",,,,
 365,677,"In Service","Hamilton","IXICA Communications Inc.","812H",
 365,678,"Available",,,,
-365,679,"Available",,,,
+365,679,"Assigned","Bowmanville","Fibernetics Corporation","464D",
 365,680,"In Service","Bethesda","Fibernetics Corporation","464D",
 365,681,"In Service","Claremont","Fibernetics Corporation","464D",
 365,682,"In Service","Mount Albert","Fibernetics Corporation","464D",
@@ -23174,8 +23174,8 @@
 548,971,"Available",,,,
 548,972,"Available",,,,
 548,973,"In Service","New Dundee","ISP Telecom","4727",
-548,974,"Available",,,,
-548,975,"Available",,,,
+548,974,"Assigned","London","Fibernetics Corporation","464D",
+548,975,"Assigned","Strathroy","Fibernetics Corporation","464D",
 548,976,"For Special Use",,,,"Pay per call service"
 548,977,"Assigned","Parkhill","Beanfield Technologies Inc.","575G",
 548,978,"Assigned","Strathroy","Beanfield Technologies Inc.","575G",
