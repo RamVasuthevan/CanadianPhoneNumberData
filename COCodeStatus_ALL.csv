@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-08-29
+,,,,,,2023-08-30
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -20700,7 +20700,7 @@
 506,897,"In Service","Fredericton","Fido Solutions Inc.","8820",
 506,898,"In Service","Saint John","Fido Solutions Inc.","8820",
 506,899,"In Service","Moncton","Fido Solutions Inc.","8820",
-506,900,"Temporarily Unavailable",,,,"Available after 10-digit dialling implemented in NPA"
+506,900,"Available",,,,
 506,901,"In Service","Grand Falls","Iristel Inc.","154E",
 506,902,"Not Available",,,,"Not available - existing Canadian NPA"
 506,903,"Available",,,,
@@ -32700,7 +32700,7 @@
 709,897,"In Service","Happy Valley - Goose Bay","Aliant Telecom (NF)","8085",
 709,898,"In Service","Daniel's Harbour","Aliant Telecom (NF)","8085",
 709,899,"In Service","Happy Valley - Goose Bay","Bell Mobility Aliant","329A",
-709,900,"Temporarily Unavailable",,,,"Available after 10-digit dialling implemented in NPA"
+709,900,"Available",,,,
 709,901,"Available",,,,
 709,902,"Available",,,,
 709,903,"Available",,,,
@@ -32712,10 +32712,10 @@
 709,909,"In Service","Marystown","Iristel Inc.","154E",
 709,910,"In Service","Upper Island Cove","Iristel Inc.","154E",
 709,911,"For Special Use",,,,"Emergency Services"
-709,912,"Not Available",,,,"Not available 911 mis-dialed"
+709,912,"Available",,,,
 709,913,"Available",,,,
-709,914,"Not Available",,,,"Not available 911 mis-dialed"
-709,915,"Not Available",,,,"Not available 911 mis-dialed"
+709,914,"Available",,,,
+709,915,"Available",,,,
 709,916,"Available",,,,
 709,917,"Available",,,,
 709,918,"Available",,,,
@@ -37400,7 +37400,7 @@
 807,797,"In Service","Fort Frances","Iristel Inc.","154E",
 807,798,"In Service","Fort Frances","Iristel Inc.","154E",
 807,799,"Available",,,,
-807,800,"Temporarily Unavailable",,,,"Available after 10-digit dialling implemented in NPA"
+807,800,"Available",,,,
 807,801,"Available",,,,
 807,802,"Available",,,,
 807,803,"Available",,,,
@@ -37500,7 +37500,7 @@
 807,897,"Available",,,,
 807,898,"Available",,,,
 807,899,"Available",,,,
-807,900,"Temporarily Unavailable",,,,"Available after 10-digit dialling implemented in NPA"
+807,900,"Available",,,,
 807,901,"Available",,,,
 807,902,"Available",,,,
 807,903,"Available",,,,
@@ -37512,10 +37512,10 @@
 807,909,"Available",,,,
 807,910,"Available",,,,
 807,911,"For Special Use",,,,"Emergency Service"
-807,912,"Not Available",,,,"Not available 911 mis-dialed"
+807,912,"Available",,,,
 807,913,"Available",,,,
-807,914,"Not Available",,,,"Not available 911 mis-dialed"
-807,915,"Not Available",,,,"Not available 911 mis-dialed"
+807,914,"Available",,,,
+807,915,"Available",,,,
 807,916,"Available",,,,
 807,917,"Available",,,,
 807,918,"Available",,,,
