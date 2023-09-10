@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-09-07
+,,,,,,2023-09-08
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -7631,7 +7631,7 @@
 343,628,"In Service","Eganville","NRTC Communications","940D",
 343,629,"Available",,,,
 343,630,"Assigned","Ottawa-Hull","Bell Mobility","6574","Available outside Bancroft EAS"
-343,631,"Available",,,,
+343,631,"Assigned","Ottawa-Hull","Bell Mobility","6574",
 343,632,"Available",,,,
 343,633,"In Service","Ottawa-Hull","Iristel Inc.","154E",
 343,634,"Available",,,,
@@ -17054,7 +17054,7 @@
 438,451,"Available",,,,
 438,452,"In Service","Montreal","TELUS Mobility","8303",
 438,453,"Assigned","Montreal","Bell Mobility","6574",
-438,454,"Available",,,,
+438,454,"Assigned","Montreal","Bell Mobility","6574",
 438,455,"In Service","Montreal","Bell Mobility","6574",
 438,456,"In Service","Montreal","Bell Mobility","6574",
 438,457,"In Service","Montreal","Bell Mobility","6574",
@@ -29724,7 +29724,7 @@
 672,321,"Available",,,,
 672,322,"Assigned","Courtenay","Rogers Communications Canada Inc. (Wireless)","8821",
 672,323,"Assigned","Abbotsford","Iristel Inc.","154E",
-672,324,"Available",,,,
+672,324,"Assigned","Victoria","Bell Mobility","6574",
 672,325,"Available",,,,
 672,326,"Available",,,,
 672,327,"Assigned","Abbotsford","Iristel Inc.","154E",
