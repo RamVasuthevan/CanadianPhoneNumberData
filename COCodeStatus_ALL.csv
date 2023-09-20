@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-09-17
+,,,,,,2023-09-18
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -3181,7 +3181,7 @@
 249,978,"Available",,,,
 249,979,"In Service","Sudbury","Fido Solutions Inc.","5643",
 249,980,"Available",,,,
-249,981,"Available",,,,
+249,981,"Assigned","Peterborough","Fibernetics Corporation","464D",
 249,982,"In Service","Sault Ste. Marie","Rogers Communications Canada Inc. (Cable)","743B",
 249,983,"In Service","North Bay","Rogers Communications Canada Inc. (Cable)","743B",
 249,984,"Available",,,,
@@ -16362,7 +16362,7 @@
 437,559,"In Service","Toronto","Fido Solutions Inc.","5643",
 437,560,"Available",,,,
 437,561,"Assigned","Toronto","TELUS Integrated Communications","2782",
-437,562,"Assigned","Toronto","TELUS Integrated Communications","2782",
+437,562,"In Service","Toronto","TELUS Integrated Communications","2782",
 437,563,"Available",,,,
 437,564,"Available",,,,
 437,565,"Available",,,,
@@ -42342,7 +42342,7 @@
 902,939,"In Service","Port Hawkesbury","TELUS Integrated Communications","2782",
 902,940,"In Service","Charlottetown","Aliant Telecom (PEI)","8087",
 902,941,"In Service","Tusket","Bragg Communications Inc.","4878",
-902,942,"Available",,,,
+902,942,"Assigned","Halifax","IXICA Communications Inc.","812H",
 902,943,"In Service","Halifax","Bell Mobility Aliant","329A",
 902,944,"In Service","Charlottetown","Iristel Inc.","154E",
 902,945,"In Service","Mabou","Aliant Telecom (NS)","8089",
