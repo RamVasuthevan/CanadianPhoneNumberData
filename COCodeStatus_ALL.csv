@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-09-18
+,,,,,,2023-09-19
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -7632,12 +7632,12 @@
 343,629,"Available",,,,
 343,630,"Assigned","Ottawa-Hull","Bell Mobility","6574","Available outside Bancroft EAS"
 343,631,"Assigned","Ottawa-Hull","Bell Mobility","6574",
-343,632,"Available",,,,
+343,632,"Assigned","Cornwall","Iristel Inc.","154E",
 343,633,"In Service","Ottawa-Hull","Iristel Inc.","154E",
 343,634,"Available",,,,
-343,635,"Available",,,,
+343,635,"Assigned","Cornwall","Iristel Inc.","154E",
 343,636,"In Service","Ingleside","Freedom Mobile Inc.","383F",
-343,637,"Available",,,,
+343,637,"Assigned","Cornwall","Iristel Inc.","154E",
 343,638,"In Service","Frankford","Fibernetics Corporation","464D",
 343,639,"In Service","Marmora","Fibernetics Corporation","464D",
 343,640,"In Service","Plevna","Fibernetics Corporation","464D",
@@ -16249,7 +16249,7 @@
 437,446,"Assigned","Toronto","Bell Mobility","6574",
 437,447,"In Service","Toronto","Iristel Inc.","154E",
 437,448,"Assigned","Toronto","Bell Mobility","6574",
-437,449,"Available",,,,
+437,449,"Assigned","Toronto","Bell Mobility","6574",
 437,450,"In Service","Toronto","Freedom Mobile Inc.","787G",
 437,451,"Available",,,,
 437,452,"Available",,,,
@@ -17135,7 +17135,7 @@
 438,532,"Available",,,,
 438,533,"In Service","Montreal","Iristel Inc.","154E",
 438,534,"Available",,,,
-438,535,"Available",,,,
+438,535,"Assigned","Montreal","Bell Mobility","6574",
 438,536,"Available",,,,
 438,537,"Not Available",,,,"Not available iaw Section 3.7 of CO Code Guidelines: Future Canadian Geographic NPA"
 438,538,"In Service","Pointe-Claire","Fibernetics Corporation","464D",
