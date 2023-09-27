@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-09-24
+,,,,,,2023-09-25
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -7843,7 +7843,7 @@
 343,840,"Available",,,,
 343,841,"Available",,,,
 343,842,"Available",,,,
-343,843,"Available",,,,
+343,843,"Assigned","Ottawa-Hull","Freedom Mobile Inc.","787G",
 343,844,"In Service","Adolphustown","InnSysVoice Corp","383H",
 343,845,"Available",,,,
 343,846,"Available",,,,
@@ -16401,11 +16401,11 @@
 437,598,"Available",,,,
 437,599,"In Service","Toronto","Fido Solutions Inc.","5643",
 437,600,"In Service","Toronto","Iristel Inc.","154E",
-437,601,"Available",,,,
-437,602,"Available",,,,
-437,603,"Available",,,,
-437,604,"Available",,,,
-437,605,"Available",,,,
+437,601,"Assigned","Toronto","Freedom Mobile Inc.","787G",
+437,602,"Assigned","Toronto","Freedom Mobile Inc.","787G",
+437,603,"Assigned","Toronto","Freedom Mobile Inc.","787G",
+437,604,"Assigned","Toronto","Freedom Mobile Inc.","787G",
+437,605,"Assigned","Toronto","Freedom Mobile Inc.","787G",
 437,606,"Available",,,,
 437,607,"Available",,,,
 437,608,"Available",,,,
