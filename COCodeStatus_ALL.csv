@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-09-27
+,,,,,,2023-09-28
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -10610,7 +10610,7 @@
 368,407,"Available",,,,
 368,408,"Available",,,,
 368,409,"Available",,,,
-368,410,"Being Recovered","Edmonton","TELUS","8084",
+368,410,"Recovered/Aging",,,,
 368,411,"For Special Use",,,,"Directory Assistance"
 368,412,"Available",,,,
 368,413,"Available",,,,
@@ -22596,7 +22596,7 @@
 548,393,"In Service","Courtright","ISP Telecom","4727",
 548,394,"Assigned","St. Thomas","Videotron Ltd.","328F",
 548,395,"Assigned","Mount Forest","Videotron Ltd.","328F",
-548,396,"Available",,,,
+548,396,"Assigned","Chatham","Videotron Ltd.","328F",
 548,397,"In Service","Woodstock","Iristel Inc.","154E",
 548,398,"In Service","Kitchener-Waterloo","Bell Mobility","6574",
 548,399,"In Service","Emeryville","IXICA Communications Inc.","812H",
@@ -24232,11 +24232,11 @@
 581,429,"In Service","Saint-Patrice-de-Beaurivage","Telecommunications Xittel Inc","247F",
 581,430,"In Service","Chibougamau","Telecommunications Xittel Inc","247F",
 581,431,"In Service","Alma","Bell Aliant, a division of Bell Canada","709G",
-581,432,"Being Recovered","Chapais","Bell Canada","984C",
+581,432,"Recovered/Aging",,,,
 581,433,"In Service","Chicoutimi","Bell Aliant, a division of Bell Canada","709G",
 581,434,"In Service","Jonquiere","Bell Aliant, a division of Bell Canada","709G",
 581,435,"In Service","La Baie (Chicoutimi Co.)","Bell Aliant, a division of Bell Canada","709G",
-581,436,"Being Recovered","Chibougamau","Bell Canada","984C",
+581,436,"Recovered/Aging",,,,
 581,437,"In Service","Riviere-du-Loup","Bell Aliant, a division of Bell Canada","709G",
 581,438,"In Service","St-Felicien","Bell Aliant, a division of Bell Canada","709G",
 581,439,"In Service","Sainte-Anne-des-Monts","Iristel Inc.","346J",
@@ -30582,8 +30582,8 @@
 683,379,"Available",,,,
 683,380,"Assigned","Barrie","Videotron Ltd.","328F",
 683,381,"Assigned","Peterborough","Videotron Ltd.","328F",
-683,382,"Available",,,,
-683,383,"Available",,,,
+683,382,"Assigned","Lindsay","Videotron Ltd.","328F",
+683,383,"Assigned","Huntsville","Videotron Ltd.","328F",
 683,384,"Available",,,,
 683,385,"Available",,,,
 683,386,"Available",,,,
@@ -40543,7 +40543,7 @@
 873,740,"In Service","Buckingham","Iristel Inc.","154E",
 873,741,"In Service","Plessisville","Iristel Inc.","154E",
 873,742,"In Service","Buckingham","Iristel Inc.","154E",
-873,743,"Being Recovered","Ham-Nord","Bell Canada","984C",
+873,743,"Recovered/Aging",,,,
 873,744,"In Service","Thurso","InnSysVoice Corp","383H",
 873,745,"In Service","Manseau","Bell Canada","984C",
 873,746,"In Service","Shawville","Bell Mobility","6574",
@@ -41210,7 +41210,7 @@
 879,607,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,608,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,609,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-879,610,"Moratorium on Assignment",,,,
+879,610,"New NPA Testing","St. John's","Aliant Telecom (NF)","8085",
 879,611,"For Special Use",,,,"Repair Service"
 879,612,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,613,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -41230,7 +41230,7 @@
 879,627,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,628,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,629,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-879,630,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
+879,630,"New NPA Testing","Corner Brook","Aliant Telecom (NF)","8085",
 879,631,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,632,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,633,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -41240,7 +41240,7 @@
 879,637,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,638,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,639,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-879,640,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
+879,640,"New NPA Testing","Happy Valley - Goose Bay","Aliant Telecom (NF)","8085",
 879,641,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,642,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 879,643,"New NPA",,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
