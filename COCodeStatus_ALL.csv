@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-04
+,,,,,,2023-10-05
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -11190,7 +11190,7 @@
 368,987,"Available",,,,
 368,988,"For Special Use",,,,"Mental Health Crisis and Suicide Prevention Services"
 368,989,"Available",,,,
-368,990,"Available",,,,
+368,990,"Assigned","Banff","TELUS Mobility","8301",
 368,991,"Available",,,,
 368,992,"In Service","Calgary","TELUS Mobility","8301",
 368,993,"In Service","Calgary","TELUS Mobility","8301",
@@ -23554,7 +23554,7 @@
 579,551,"In Service","Mirabel-St-Augustin","ISP Telecom","4727",
 579,552,"In Service","St-Lin","Cooptel","818D",
 579,553,"In Service","St-Calixte-de-Kilkenny","Cooptel","818D",
-579,554,"Recovered/Aging",,,,
+579,554,"Available",,,,
 579,555,"For Special Use",,,,"Universal Information"
 579,556,"In Service","Upton","Cooptel","818D",
 579,557,"Available",,,,
@@ -30363,7 +30363,7 @@
 672,960,"Available",,,,
 672,961,"Available",,,,
 672,962,"Available",,,,
-672,963,"Available",,,,
+672,963,"Assigned","Vancouver","TELUS Mobility","8301",
 672,964,"Available",,,,
 672,965,"Assigned","Vancouver","TELUS Mobility","8301",
 672,966,"In Service","Abbotsford","TELUS Mobility","8301",
@@ -40085,7 +40085,7 @@
 873,282,"In Service","Nominingue","Telecommunications Xittel Inc","247F",
 873,283,"In Service","L'Annonciation","Telecommunications Xittel Inc","247F",
 873,284,"In Service","Labelle","Telecommunications Xittel Inc","247F",
-873,285,"Recovered/Aging",,,,
+873,285,"Available",,,,
 873,286,"In Service","Lyster","ISP Telecom","4727",
 873,287,"In Service","St-Donat-de-Montcalm","ISP Telecom","4727",
 873,288,"In Service","Ottawa-Hull","Fido Solutions Inc.","5643",
