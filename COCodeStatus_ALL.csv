@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-11
+,,,,,,2023-10-12
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -17339,8 +17339,8 @@
 438,736,"Available",,,,
 438,737,"Available",,,,
 438,738,"In Service","Montreal","Fibernetics Corporation","464D",
-438,739,"Available",,,,
-438,740,"Available",,,,
+438,739,"Assigned","Pointe-Claire","Fibernetics Corporation","464D",
+438,740,"Assigned","Ste-Genevieve","Fibernetics Corporation","464D",
 438,741,"Available",,,,
 438,742,"Available",,,,
 438,743,"Available",,,,
