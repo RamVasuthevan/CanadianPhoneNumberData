@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-12
+,,,,,,2023-10-13
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -2917,8 +2917,8 @@
 249,714,"In Service","New Liskeard","TELUS Integrated Communications","2782",
 249,715,"In Service","South Porcupine","TELUS Integrated Communications","2782",
 249,716,"Available",,,,
-249,717,"Assigned","Hearst","TELUS Integrated Communications","2782",
-249,718,"Assigned","Haileybury","TELUS Integrated Communications","2782",
+249,717,"In Service","Hearst","TELUS Integrated Communications","2782",
+249,718,"In Service","Haileybury","TELUS Integrated Communications","2782",
 249,719,"Available",,,,
 249,720,"Available",,,,
 249,721,"Available",,,,
@@ -3143,8 +3143,8 @@
 249,940,"Available",,,,
 249,941,"In Service","Stroud","ISP Telecom","4727",
 249,942,"Available",,,,
-249,943,"Available",,,,
-249,944,"Available",,,,
+249,943,"Assigned","Borden-Angus","Fibernetics Corporation","464D",
+249,944,"Assigned","Collingwood","Fibernetics Corporation","464D",
 249,945,"Available",,,,
 249,946,"Available",,,,
 249,947,"Available",,,,
@@ -29607,7 +29607,7 @@
 672,204,"Assigned","Victoria","Freedom Mobile Inc.","383F",
 672,205,"Assigned","Vancouver","Iristel Inc.","154E",
 672,206,"Assigned","Vancouver","Iristel Inc.","154E",
-672,207,"Available",,,,
+672,207,"Assigned","Castlegar","Iristel Inc.","154E",
 672,208,"Available",,,,
 672,209,"Available",,,,
 672,210,"Available",,,,
