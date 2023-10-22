@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-19
+,,,,,,2023-10-20
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -40159,10 +40159,10 @@
 873,356,"Assigned","Gentilly","Bell Canada","984C",
 873,357,"In Service","Waswanipi","Bell Mobility","6574",
 873,358,"In Service","Eastmain","Bell Mobility","6574",
-873,359,"Assigned","Saint-Paulin","Cooptel","818D",
-873,360,"Assigned","Charette","Cooptel","818D",
-873,361,"Assigned","Saint-Alexis-Des-Monts","Cooptel","818D",
-873,362,"Assigned","Saint-Barnabe","Cooptel","818D",
+873,359,"Being Recovered","Saint-Paulin","Cooptel","818D",
+873,360,"Being Recovered","Charette","Cooptel","818D",
+873,361,"Being Recovered","Saint-Alexis-Des-Monts","Cooptel","818D",
+873,362,"Being Recovered","Saint-Barnabe","Cooptel","818D",
 873,363,"In Service","Deauville","Iristel Inc.","154E",
 873,364,"Assigned","Mont-Laurier","Bell Canada","984C",
 873,365,"In Service","Chisasibi","Bell Mobility","6574",
