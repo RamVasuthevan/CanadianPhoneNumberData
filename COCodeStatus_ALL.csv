@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-22
+,,,,,,2023-10-23
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -3142,7 +3142,7 @@
 249,939,"Available",,,,
 249,940,"Available",,,,
 249,941,"In Service","Stroud","ISP Telecom","4727",
-249,942,"Available",,,,
+249,942,"Assigned","Bluewater","Fibernetics Corporation","464D",
 249,943,"Assigned","Borden-Angus","Fibernetics Corporation","464D",
 249,944,"Assigned","Collingwood","Fibernetics Corporation","464D",
 249,945,"Assigned","Cookstown","Fibernetics Corporation","464D",
@@ -7973,9 +7973,9 @@
 343,970,"In Service","Cobden","Freedom Mobile Inc.","383F",
 343,971,"Available",,,,
 343,972,"Available",,,,
-343,973,"Available",,,,
-343,974,"Available",,,,
-343,975,"Available",,,,
+343,973,"Assigned","Arnprior","Fibernetics Corporation","464D",
+343,974,"Assigned","Kanata-Stittsville","Fibernetics Corporation","464D",
+343,975,"Assigned","Ottawa-Hull","Fibernetics Corporation","464D",
 343,976,"For Special Use",,,,"Pay per call service"
 343,977,"Available",,,,
 343,978,"Available",,,,
