@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-26
+,,,,,,2023-10-27
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -9088,9 +9088,9 @@
 365,485,"In Service","Nobleton","IXICA Communications Inc.","812H",
 365,486,"Available",,,,
 365,487,"Available",,,,
-365,488,"Available",,,,
-365,489,"Available",,,,
-365,490,"Available",,,,
+365,488,"Assigned","Brampton","Fibernetics Corporation","464D",
+365,489,"Assigned","Castlemore","Fibernetics Corporation","464D",
+365,490,"Assigned","Snelgrove","Fibernetics Corporation","464D",
 365,491,"Available",,,,
 365,492,"Available",,,,
 365,493,"Available",,,,
