@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-29
+,,,,,,2023-10-30
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -7554,9 +7554,9 @@
 343,551,"In Service","Ottawa-Hull","Bell Mobility","6574",
 343,552,"In Service","Ottawa-Hull","Bell Mobility","6574",
 343,553,"In Service","Ottawa-Hull","Bell Mobility","6574","Available outside Bancroft EAS"
-343,554,"Available",,,,
+343,554,"Assigned","Ottawa-Hull","Iristel Inc.","346J",
 343,555,"For Special Use",,,,"Universal Information"
-343,556,"Available",,,,
+343,556,"Assigned","Ottawa-Hull","Iristel Inc.","346J",
 343,557,"In Service","Maynooth","ISP Telecom","4727",
 343,558,"In Service","Ottawa-Hull","Fido Solutions Inc.","5643",
 343,559,"In Service","Arden","ISP Telecom","4727",
@@ -15701,8 +15701,8 @@
 431,698,"In Service","Steinbach","TELUS Mobility","8303",
 431,699,"In Service","Winnipeg","Comwave Networks","160G",
 431,700,"In Service","Winnipeg","Iristel Inc.","346J",
-431,701,"Available",,,,
-431,702,"Available",,,,
+431,701,"Assigned","Winnipeg","Iristel Inc.","346J",
+431,702,"Assigned","Winnipeg","Iristel Inc.","346J",
 431,703,"Available",,,,
 431,704,"Available",,,,
 431,705,"Available",,,,
@@ -38682,8 +38682,8 @@
 825,479,"Available",,,,
 825,480,"In Service","Edmonton","Shaw Telecom Inc.","497E",
 825,481,"In Service","Edmonton","Shaw Telecom Inc.","497E",
-825,482,"Available",,,,
-825,483,"Available",,,,
+825,482,"Assigned","Edmonton","Iristel Inc.","346J",
+825,483,"Assigned","Edmonton","Iristel Inc.","346J",
 825,484,"In Service","Calgary","Freedom Mobile Inc.","787G",
 825,485,"In Service","Drayton Valley","Iristel Inc.","154E",
 825,486,"Assigned","Drayton Valley","Iristel Inc.","154E",
