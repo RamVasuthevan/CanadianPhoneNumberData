@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-10-30
+,,,,,,2023-10-31
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -9038,7 +9038,7 @@
 365,435,"In Service","King City","IXICA Communications Inc.","812H",
 365,436,"In Service","Hamilton","Bell Mobility","6574",
 365,437,"Not Available",,,,"Not available - existing Canadian NPA"
-365,438,"Assigned","Hamilton","Bell Mobility","6574",
+365,438,"In Service","Hamilton","Bell Mobility","6574",
 365,439,"Assigned","Hamilton","Bell Mobility","6574",
 365,440,"In Service","Brampton","Bell Mobility","6574",
 365,441,"Available",,,,
@@ -9730,7 +9730,7 @@
 367,327,"In Service","St-Honore (Chicoutimi Co.)","Fibernetics Corporation","464D",
 367,328,"In Service","Ste-Rose-du-Nord","Fibernetics Corporation","464D",
 367,329,"Assigned","Quebec","Bell Mobility","6574",
-367,330,"Assigned","Quebec","Bell Mobility","6574",
+367,330,"In Service","Quebec","Bell Mobility","6574",
 367,331,"Available",,,,
 367,332,"Available",,,,
 367,333,"In Service","St-Fereol","IXICA Communications Inc.","812H",
@@ -16454,7 +16454,7 @@
 437,651,"In Service","Toronto","Bell Mobility","6574",
 437,652,"In Service","Toronto","Bell Mobility","6574",
 437,653,"In Service","Toronto","Bell Mobility","6574",
-437,654,"Assigned","Toronto","Bell Mobility","6574",
+437,654,"In Service","Toronto","Bell Mobility","6574",
 437,655,"In Service","Toronto","Rogers Communications Canada Inc. (Wireless)","8821",
 437,656,"Assigned","Toronto","Bell Mobility","6574",
 437,657,"Assigned","Toronto","Bell Mobility","6574",
@@ -18559,7 +18559,7 @@
 468,356,"Available",,,,
 468,357,"Available",,,,
 468,358,"Available",,,,
-468,359,"Assigned","Arthabaska","Bell Mobility","6574",
+468,359,"In Service","Arthabaska","Bell Mobility","6574",
 468,360,"Available",,,,
 468,361,"Available",,,,
 468,362,"Available",,,,
@@ -32602,8 +32602,8 @@
 709,799,"In Service","St. John's","Iristel Inc.","346J",
 709,800,"In Service","St. John's","Iristel Inc.","154E",
 709,801,"New Entrants Reserved",,,,"Reserved New Entrants iaw Telecom Decision CRTC 2016-205 - Can be made available upon request"
-709,802,"Available",,,,
-709,803,"Available",,,,
+709,802,"Assigned","St. John's","Iristel Inc.","346J",
+709,803,"Assigned","St. John's","Iristel Inc.","346J",
 709,804,"Available",,,,
 709,805,"Available",,,,
 709,806,"Available",,,,
@@ -36840,7 +36840,7 @@
 807,237,"In Service","Red Lake","Distributel","082E",
 807,238,"In Service","Hemlo","Bell Canada","8051",
 807,239,"In Service","Sioux Lookout","Distributel","082E",
-807,240,"Assigned","Sioux Lookout","TBayTel","988H",
+807,240,"In Service","Sioux Lookout","TBayTel","988H",
 807,241,"Available",,,,
 807,242,"In Service","Fort Hope","Bell Canada","8051",
 807,243,"Available",,,,
