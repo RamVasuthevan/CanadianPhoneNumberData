@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-11-01
+,,,,,,2023-11-02
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -9574,14 +9574,14 @@
 365,971,"Available",,,,
 365,972,"Available",,,,
 365,973,"Available",,,,
-365,974,"Assigned","St. Catharines-Thorold","Fibernetics Corporation","464D",
+365,974,"In Service","St. Catharines-Thorold","Fibernetics Corporation","464D",
 365,975,"In Service","Streetsville","TELUS Integrated Communications","2782",
 365,976,"For Special Use",,,,"Pay per call service"
 365,977,"In Service","Oakville","Iristel Inc.","154E",
 365,978,"Available",,,,
 365,979,"Available",,,,
 365,980,"In Service","Markham","Iristel Inc.","154E",
-365,981,"Assigned","Burlington","Fibernetics Corporation","464D",
+365,981,"In Service","Burlington","Fibernetics Corporation","464D",
 365,982,"In Service","Binbrook","Fibernetics Corporation","464D",
 365,983,"In Service","Dundas","Fibernetics Corporation","464D",
 365,984,"In Service","Grimsby","Fibernetics Corporation","464D",
@@ -9637,8 +9637,8 @@
 367,234,"Available",,,,
 367,235,"Available",,,,
 367,236,"Available",,,,
-367,237,"Available",,,,
-367,238,"Available",,,,
+367,237,"Assigned","Quebec","Iristel Inc.","346J",
+367,238,"Assigned","Quebec","Iristel Inc.","346J",
 367,239,"Available",,,,
 367,240,"Available",,,,
 367,241,"Available",,,,
@@ -22654,7 +22654,7 @@
 548,451,"In Service","Thamesford","Fibernetics Corporation","464D",
 548,452,"In Service","Guelph","Fibernetics Corporation","464D",
 548,453,"In Service","Woodstock","Fibernetics Corporation","464D",
-548,454,"Assigned","Sarnia","Fibernetics Corporation","464D",
+548,454,"In Service","Sarnia","Fibernetics Corporation","464D",
 548,455,"Available",,,,
 548,456,"Available",,,,
 548,457,"In Service","Clinton","Iristel Inc.","154E",
