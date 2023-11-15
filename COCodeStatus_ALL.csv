@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-11-12
+,,,,,,2023-11-13
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -16472,7 +16472,7 @@
 437,669,"Assigned","Toronto","Fido Solutions Inc.","5643",
 437,670,"Assigned","Toronto","Bell Mobility","6574",
 437,671,"Assigned","Toronto","Bell Mobility","6574",
-437,672,"Available",,,,
+437,672,"Assigned","Toronto","Bell Mobility","6574",
 437,673,"In Service","Toronto","Freedom Mobile Inc.","787G",
 437,674,"Available",,,,
 437,675,"Available",,,,
@@ -17181,7 +17181,7 @@
 438,578,"Assigned","Montreal","Bell Mobility","6574",
 438,579,"Not Available",,,,"Not available - existing Canadian NPA"
 438,580,"In Service","Montreal","TELUS Mobility","8303",
-438,581,"Available",,,,
+438,581,"Assigned","Montreal","Bell Mobility","6574",
 438,582,"Available",,,,
 438,583,"Available",,,,
 438,584,"Available",,,,
@@ -19356,7 +19356,7 @@
 474,353,"In Service","Meacham","ISP Telecom","4727",
 474,354,"In Service","Saskatoon","Bell Mobility","6574",
 474,355,"Assigned","Saskatoon","Bell Mobility","6574",
-474,356,"Available",,,,
+474,356,"Assigned","Saskatoon","Bell Mobility","6574",
 474,357,"Available",,,,
 474,358,"Available",,,,
 474,359,"Available",,,,
