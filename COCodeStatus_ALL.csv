@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-11-15
+,,,,,,2023-11-16
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -16967,7 +16967,7 @@
 438,364,"In Service","Montreal","Bell Mobility","6574",
 438,365,"In Service","Montreal","Videotron Ltd.","328F",
 438,366,"In Service","Montreal","Videotron Ltd.","328F",
-438,367,"Available",,,,
+438,367,"Assigned","Montreal","Videotron Ltd.","328F",
 438,368,"In Service","Montreal","Rogers Communications Canada Inc. (Wireless)","8821",
 438,369,"In Service","Montreal","Videotron Ltd.","328F",
 438,370,"In Service","Montreal","Videotron Ltd.","328F",
@@ -38724,7 +38724,7 @@
 825,521,"Assigned","Calgary","Videotron Ltd.","328F",
 825,522,"In Service","Edmonton","Bell Mobility","6574","Limited availability - available outside the Lloydminster EAS area"
 825,523,"In Service","Edmonton","Bell Mobility","6574",
-825,524,"Available",,,,
+825,524,"Assigned","Lethbridge","Videotron Ltd.","328F",
 825,525,"In Service","Edmonton","Iristel Inc.","154E",
 825,526,"Available",,,,
 825,527,"Available",,,,
