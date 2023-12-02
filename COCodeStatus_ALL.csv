@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-11-29
+,,,,,,2023-11-30
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -28505,8 +28505,8 @@
 639,702,"In Service","Dillon","SaskTel Mobility","9868",
 639,703,"In Service","Waskesiu Lake","SaskTel Mobility","9868",
 639,704,"In Service","Saskatoon","Iristel Inc.","154E",
-639,705,"Available",,,,
-639,706,"Available",,,,
+639,705,"Assigned","Meota","Access Communications Co-operative Limited","280H",
+639,706,"Assigned","Earl Grey","Access Communications Co-operative Limited","280H",
 639,707,"In Service","Regina","Iristel Inc.","346J",
 639,708,"Available",,,,
 639,709,"In Service","Regina","Iristel Inc.","154E",
@@ -36900,9 +36900,9 @@
 807,297,"In Service","White River","Shaw Telecom Inc.","497E",
 807,298,"Available",,,,
 807,299,"Available",,,,
-807,300,"Available",,,,
-807,301,"Available",,,,
-807,302,"Available",,,,
+807,300,"Assigned","Thunder Bay","Iristel Inc.","154E",
+807,301,"Assigned","Thunder Bay","Iristel Inc.","154E",
+807,302,"Assigned","Thunder Bay","Iristel Inc.","154E",
 807,303,"Available",,,,
 807,304,"Available",,,,
 807,305,"Available",,,,
