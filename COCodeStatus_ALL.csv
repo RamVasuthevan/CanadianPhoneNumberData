@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-11-30
+,,,,,,2023-12-01
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -9806,9 +9806,9 @@
 367,403,"Assigned","Quebec","Iristel Inc.","154E",
 367,404,"Assigned","Quebec","Iristel Inc.","154E",
 367,405,"Assigned","Quebec","Iristel Inc.","154E",
-367,406,"Available",,,,
-367,407,"Available",,,,
-367,408,"Available",,,,
+367,406,"Assigned","Quebec","Iristel Inc.","154E",
+367,407,"Assigned","Quebec","Iristel Inc.","154E",
+367,408,"Assigned","Quebec","Iristel Inc.","154E",
 367,409,"Available",,,,
 367,410,"Available",,,,
 367,411,"For Special Use",,,,"Directory Assistance"
@@ -17513,9 +17513,9 @@
 438,910,"Assigned","Montreal","Iristel Inc.","154E",
 438,911,"For Special Use",,,,"Emergency Service"
 438,912,"Assigned","Montreal","Iristel Inc.","154E",
-438,913,"Available",,,,
-438,914,"Available",,,,
-438,915,"Available",,,,
+438,913,"Assigned","Montreal","Iristel Inc.","154E",
+438,914,"Assigned","Montreal","Iristel Inc.","154E",
+438,915,"Assigned","Montreal","Iristel Inc.","154E",
 438,916,"Available",,,,
 438,917,"Available",,,,
 438,918,"Available",,,,
