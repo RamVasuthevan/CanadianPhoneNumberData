@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Company","OCN","Remarks"
-,,,,,,2023-12-04
+,,,,,,2023-12-05
 204,200,"In Service","Winnipeg","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","Fibernetics Corporation","464D",
@@ -11342,7 +11342,7 @@
 382,339,"Available",,,,
 382,340,"Available",,,,
 382,341,"Available",,,,
-382,342,"Available",,,,
+382,342,"Assigned","Windsor","Bell Mobility","6574",
 382,343,"Available",,,,
 382,344,"Available",,,,
 382,345,"Available",,,,
@@ -38726,7 +38726,7 @@
 825,523,"In Service","Edmonton","Bell Mobility","6574",
 825,524,"Assigned","Lethbridge","Videotron Ltd.","328F",
 825,525,"In Service","Edmonton","Iristel Inc.","154E",
-825,526,"Available",,,,
+825,526,"Assigned","Edmonton","Bell Mobility","6574",
 825,527,"Available",,,,
 825,528,"In Service","Penhold","Freedom Mobile Inc.","383F",
 825,529,"In Service","Sylvan Lake","Freedom Mobile Inc.","383F",
@@ -38960,7 +38960,7 @@
 825,757,"In Service","Veteran","Iristel Inc.","154E",
 825,758,"In Service","Vulcan","Iristel Inc.","154E",
 825,759,"Available",,,,
-825,760,"Available",,,,
+825,760,"Assigned","Calgary","Bell Mobility","6574",
 825,761,"Available",,,,
 825,762,"Available",,,,
 825,763,"Available",,,,
