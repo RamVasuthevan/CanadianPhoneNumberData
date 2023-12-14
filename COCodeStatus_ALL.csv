@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2023-12-11
+,,,,,,,2023-12-12
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2650,7 +2650,7 @@
 249,447,"In Service","Whitefish","ON","Fibernetics Corporation","464D",
 249,448,"In Service","Whitefish Falls","ON","Fibernetics Corporation","464D",
 249,449,"In Service","Orillia","ON","Iristel Inc.","154E",
-249,450,"Assigned","Blezard Valley","ON","Fibernetics Corporation","464D",
+249,450,"In Service","Blezard Valley","ON","Fibernetics Corporation","464D",
 249,451,"Available",,,,,"Available outside Hanmer EAS"
 249,452,"Available",,,,,
 249,453,"Available",,,,,
@@ -3056,7 +3056,7 @@
 249,853,"Available",,,,,
 249,854,"Available",,,,,
 249,855,"Available",,,,,"Available outside Chelmsford EAS"
-249,856,"Assigned","Sudbury","ON","Fibernetics Corporation","464D",
+249,856,"In Service","Sudbury","ON","Fibernetics Corporation","464D",
 249,857,"Available",,,,,
 249,858,"Available",,,,,
 249,859,"Available",,,,,
@@ -7951,8 +7951,8 @@
 343,948,"Available",,,,,
 343,949,"Available",,,,,
 343,950,"For Special Use",,,,,"F.G. 'B' Access"
-343,951,"Assigned","Brockville","ON","Fibernetics Corporation","464D",
-343,952,"Assigned","Delta","ON","Fibernetics Corporation","464D",
+343,951,"In Service","Brockville","ON","Fibernetics Corporation","464D",
+343,952,"In Service","Delta","ON","Fibernetics Corporation","464D",
 343,953,"Available",,,,,
 343,954,"Available",,,,,
 343,955,"Available",,,,,
@@ -11889,7 +11889,7 @@
 382,886,"Available",,,,,
 382,887,"Available",,,,,
 382,888,"In Service","Parkhill","ON","IXICA Communications Inc.","812H",
-382,889,"Available",,,,,
+382,889,"Assigned","Kitchener-Waterloo","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 382,890,"Available",,,,,
 382,891,"Available",,,,,
 382,892,"Available",,,,,
@@ -30887,8 +30887,8 @@
 683,684,"In Service","Alliston","ON","Fibernetics Corporation","464D",
 683,685,"In Service","Orillia","ON","Fibernetics Corporation","464D",
 683,686,"In Service","Wasaga Beach","ON","Fibernetics Corporation","464D",
-683,687,"Assigned","Sturgeon Falls","ON","Fibernetics Corporation","464D",
-683,688,"Assigned","North Bay","ON","Fibernetics Corporation","464D",
+683,687,"In Service","Sturgeon Falls","ON","Fibernetics Corporation","464D",
+683,688,"In Service","North Bay","ON","Fibernetics Corporation","464D",
 683,689,"Available",,,,,
 683,690,"Available",,,,,
 683,691,"Available",,,,,
@@ -33480,7 +33480,7 @@
 742,877,"Available",,,,,
 742,878,"Available",,,,,
 742,879,"Available",,,,,
-742,880,"Available",,,,,
+742,880,"Assigned","Hamilton","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 742,881,"In Service","Port Colborne","ON","Rogers Communications Canada Inc. (Cable)","743B",
 742,882,"In Service","Niagara Falls","ON","Rogers Communications Canada Inc. (Cable)","743B",
 742,883,"In Service","Welland","ON","Rogers Communications Canada Inc. (Cable)","743B",
@@ -39165,7 +39165,7 @@
 825,962,"Available",,,,,
 825,963,"Available",,,,,
 825,964,"Available",,,,,
-825,965,"Available",,,,,
+825,965,"Assigned","Edmonton","AB","TELUS Mobility","8301",
 825,966,"In Service","Edmonton","AB","TELUS Mobility","8301",
 825,967,"In Service","Edmonton","AB","TELUS Mobility","8301",
 825,968,"In Service","Hanna","AB","TELUS Mobility","8301",
