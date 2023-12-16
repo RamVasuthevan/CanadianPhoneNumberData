@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2023-12-13
+,,,,,,,2023-12-14
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -15371,7 +15371,7 @@
 431,368,"In Service","Stonewall","MB","Fibernetics Corporation","464D",
 431,369,"In Service","Swan Lake","MB","Fibernetics Corporation","464D",
 431,370,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
-431,371,"Available",,,,,
+431,371,"Assigned","Winnipeg","MB","Bell Mobility","6574",
 431,372,"Available",,,,,
 431,373,"In Service","Winnipeg","MB","Bell Mobility","6574",
 431,374,"In Service","Winnipeg","MB","Bell Mobility","6574",
@@ -37401,7 +37401,7 @@
 807,798,"In Service","Fort Frances","ON","Iristel Inc.","154E",
 807,799,"Available",,,,,
 807,800,"Available",,,,,
-807,801,"Available",,,,,
+807,801,"Assigned","Nipigon","ON","Bell Mobility","6574",
 807,802,"Available",,,,,
 807,803,"Available",,,,,
 807,804,"Available",,,,,
