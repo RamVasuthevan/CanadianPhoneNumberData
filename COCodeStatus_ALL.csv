@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2023-12-14
+,,,,,,,2023-12-15
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -39164,7 +39164,7 @@
 825,961,"Available",,,,,
 825,962,"Available",,,,,
 825,963,"Available",,,,,
-825,964,"Available",,,,,
+825,964,"Assigned","Calgary","AB","TELUS Mobility","646F",
 825,965,"Assigned","Edmonton","AB","TELUS Mobility","8301",
 825,966,"In Service","Edmonton","AB","TELUS Mobility","8301",
 825,967,"In Service","Edmonton","AB","TELUS Mobility","8301",
