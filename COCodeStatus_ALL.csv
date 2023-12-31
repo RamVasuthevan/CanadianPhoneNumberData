@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2023-12-28
+,,,,,,,2023-12-29
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -7635,7 +7635,7 @@
 343,632,"In Service","Cornwall","ON","Iristel Inc.","154E",
 343,633,"In Service","Ottawa-Hull","ON","Iristel Inc.","154E",
 343,634,"In Service","Cornwall","ON","Iristel Inc.","154E",
-343,635,"Assigned","Cornwall","ON","Iristel Inc.","154E",
+343,635,"In Service","Cornwall","ON","Iristel Inc.","154E",
 343,636,"In Service","Ingleside","ON","Freedom Mobile Inc.","383F",
 343,637,"In Service","Cornwall","ON","Iristel Inc.","154E",
 343,638,"In Service","Frankford","ON","Fibernetics Corporation","464D",
@@ -9421,7 +9421,7 @@
 365,818,"In Service","Bolton","ON","Rogers Communications Canada Inc.","571G",
 365,819,"In Service","Richmond Hill","ON","Iristel Inc.","154E",
 365,820,"In Service","Richmond Hill","ON","Iristel Inc.","154E",
-365,821,"Assigned","Richmond Hill","ON","Iristel Inc.","154E",
+365,821,"In Service","Richmond Hill","ON","Iristel Inc.","154E",
 365,822,"In Service","Milton","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 365,823,"In Service","Bethesda","ON","ISP Telecom","4727",
 365,824,"In Service","Keswick","ON","ISP Telecom","4727",
@@ -11500,7 +11500,7 @@
 382,497,"Available",,,,,
 382,498,"Available",,,,,
 382,499,"Available",,,,,
-382,500,"Assigned","Harrietsville","ON","IXICA Communications Inc.","812H",
+382,500,"In Service","Harrietsville","ON","IXICA Communications Inc.","812H",
 382,501,"Available",,,,,
 382,502,"Available",,,,,
 382,503,"Available",,,,,
@@ -42342,7 +42342,7 @@
 902,939,"In Service","Port Hawkesbury","NS","TELUS Integrated Communications","2782",
 902,940,"In Service","Charlottetown","PE","Aliant Telecom (PEI)","8087",
 902,941,"In Service","Tusket","NS","Bragg Communications Inc.","4878",
-902,942,"Assigned","Halifax","NS","IXICA Communications Inc.","812H",
+902,942,"In Service","Halifax","NS","IXICA Communications Inc.","812H",
 902,943,"In Service","Halifax","NS","Bell Mobility Aliant","329A",
 902,944,"In Service","Charlottetown","PE","Iristel Inc.","154E",
 902,945,"In Service","Mabou","NS","Aliant Telecom (NS)","8089",
