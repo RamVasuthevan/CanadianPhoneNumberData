@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-03
+,,,,,,,2024-01-04
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -4980,7 +4980,7 @@
 263,377,"Available",,,,,
 263,378,"Available",,,,,
 263,379,"Available",,,,,
-263,380,"Available",,,,,
+263,380,"Assigned","Montreal","QC","Videotron Ltd.","328F",
 263,381,"Available",,,,,
 263,382,"Available",,,,,
 263,383,"Available",,,,,
@@ -9563,7 +9563,7 @@
 365,960,"In Service","Markham","ON","Iristel Inc.","154E",
 365,961,"Available",,,,,
 365,962,"In Service","Cayuga","ON","TELUS Integrated Communications","2782",
-365,963,"Available",,,,,
+365,963,"Assigned","Brampton","ON","Freedom Mobile Inc.","787G",
 365,964,"Available",,,,,
 365,965,"In Service","Snelgrove","ON","IXICA Communications Inc.","812H",
 365,966,"In Service","Burlington","ON","Rogers Communications Canada Inc. (Cable)","743B",
@@ -10392,7 +10392,7 @@
 367,989,"In Service","Alma","QC","TELUS Mobility","8303",
 367,990,"In Service","Quebec","QC","TELUS Mobility","8303",
 367,991,"In Service","Roberval","QC","ISP Telecom","4727",
-367,992,"Available",,,,,
+367,992,"Assigned","Alma","QC","TELUS Mobility","8303",
 367,993,"In Service","Alma","QC","TELUS Mobility","8303",
 367,994,"In Service","Cap-aux-Meules","QC","TELUS Mobility","8303",
 367,995,"In Service","Quebec","QC","TELUS Mobility","8303",
@@ -30361,7 +30361,7 @@
 672,958,"Plant Test",,,,,"Plant Test Code"
 672,959,"Plant Test",,,,,"Plant Test Code"
 672,960,"Available",,,,,
-672,961,"Available",,,,,
+672,961,"Assigned","100 Mile House","BC","TELUS Mobility","8301",
 672,962,"Assigned","Vancouver","BC","TELUS Mobility","646F",
 672,963,"Assigned","Vancouver","BC","TELUS Mobility","8301",
 672,964,"Assigned","New Westminster","BC","TELUS Mobility","8301",
