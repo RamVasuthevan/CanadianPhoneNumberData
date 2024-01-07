@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-04
+,,,,,,,2024-01-05
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -22698,7 +22698,7 @@
 548,495,"Available",,,,,
 548,496,"Available",,,,,
 548,497,"Available",,,,,
-548,498,"Available",,,,,
+548,498,"Assigned","Kitchener-Waterloo","ON","Freedom Mobile Inc.","787G",
 548,499,"In Service","Woodslee","ON","IXICA Communications Inc.","812H",
 548,500,"In Service","Kingsville","ON","IXICA Communications Inc.","812H",
 548,501,"In Service","Tillsonburg","ON","Iristel Inc.","154E",
