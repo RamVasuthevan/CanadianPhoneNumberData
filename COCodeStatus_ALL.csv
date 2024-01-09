@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-06
+,,,,,,,2024-01-08
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9731,7 +9731,7 @@
 367,328,"In Service","Ste-Rose-du-Nord","QC","Fibernetics Corporation","464D",
 367,329,"Assigned","Quebec","QC","Bell Mobility","6574",
 367,330,"In Service","Quebec","QC","Bell Mobility","6574",
-367,331,"Available",,,,,
+367,331,"Assigned","Quebec","QC","Bell Mobility","6574",
 367,332,"Available",,,,,
 367,333,"In Service","St-Fereol","QC","IXICA Communications Inc.","812H",
 367,334,"Available",,,,,
@@ -10758,7 +10758,7 @@
 368,555,"For Special Use",,,,,"Universal Information"
 368,556,"Available",,,,,
 368,557,"Available",,,,,
-368,558,"Available",,,,,
+368,558,"Assigned","High Level","AB","Bell Mobility","6574",
 368,559,"Available",,,,,
 368,560,"Available",,,,,
 368,561,"Available",,,,,
@@ -28363,7 +28363,7 @@
 639,560,"In Service","Regina","SK","SaskTel Mobility","9868",
 639,561,"In Service","Regina","SK","Fibernetics Corporation","464D",
 639,562,"In Service","Saskatoon","SK","Fibernetics Corporation","464D",
-639,563,"Available",,,,,
+639,563,"Assigned","Prince Albert","SK","Bell Mobility","6574",
 639,564,"Available",,,,,
 639,565,"In Service","Lumsden","SK","Iristel Inc.","154E",
 639,566,"In Service","Moose Jaw","SK","Rogers Communications Canada Inc. (Wireless)","8821",
