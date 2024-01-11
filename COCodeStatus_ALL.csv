@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-08
+,,,,,,,2024-01-09
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2062,7 +2062,7 @@
 236,659,"In Service","Mackenzie","BC","Bell West Inc.","2933",
 236,660,"Assigned","Vancouver","BC","Bell Mobility","6574",
 236,661,"Available",,,,,
-236,662,"Available",,,,,
+236,662,"Assigned","Vancouver","BC","Bell Mobility","6574",
 236,663,"In Service","West Vancouver","BC","IXICA Communications Inc.","812H",
 236,664,"Available",,,,,
 236,665,"Available",,,,,
@@ -2827,8 +2827,8 @@
 249,624,"Available",,,,,
 249,625,"Available",,,,,
 249,626,"Available",,,,,
-249,627,"Available",,,,,
-249,628,"Available",,,,,
+249,627,"Assigned","Bobcaygeon","ON","Fibernetics Corporation","464D",
+249,628,"Assigned","Lindsay","ON","Fibernetics Corporation","464D",
 249,629,"In Service","Little Britain","ON","Fibernetics Corporation","464D",
 249,630,"In Service","Cameron","ON","Fibernetics Corporation","464D",
 249,631,"In Service","Dunsford","ON","Fibernetics Corporation","464D",
@@ -3147,7 +3147,7 @@
 249,944,"In Service","Collingwood","ON","Fibernetics Corporation","464D",
 249,945,"In Service","Cookstown","ON","Fibernetics Corporation","464D",
 249,946,"In Service","Penetanguishene","ON","Fibernetics Corporation","464D",
-249,947,"Available",,,,,
+249,947,"Assigned","Huntsville","ON","Fibernetics Corporation","464D",
 249,948,"Available",,,,,
 249,949,"In Service","Udora","ON","IXICA Communications Inc.","812H",
 249,950,"For Special Use",,,,,"F.G. 'B' Access"
@@ -5593,7 +5593,7 @@
 263,990,"Assigned","Montreal","QC","Rogers Communications Canada Inc. (Wireless)","8821",
 263,991,"Available",,,,,
 263,992,"Available",,,,,
-263,993,"Available",,,,,
+263,993,"Assigned","Montreal","QC","TELUS Mobility","8303",
 263,994,"Available",,,,,
 263,995,"Available",,,,,
 263,996,"Available",,,,,
@@ -23156,8 +23156,8 @@
 548,953,"Available",,,,,
 548,954,"Available",,,,,
 548,955,"In Service","Drayton","ON","Rogers Communications Canada Inc. (Cable)","743B",
-548,956,"Available",,,,,
-548,957,"Available",,,,,
+548,956,"Assigned","Galt","ON","Fibernetics Corporation","464D",
+548,957,"Assigned","Hespeler","ON","Fibernetics Corporation","464D",
 548,958,"Plant Test",,,,,"Plant Test Code"
 548,959,"Plant Test",,,,,"Plant Test Code"
 548,960,"In Service","Windsor","ON","Iristel Inc.","154E",
@@ -23172,7 +23172,7 @@
 548,969,"In Service","Windsor","ON","Iristel Inc.","154E",
 548,970,"In Service","Windsor","ON","Iristel Inc.","154E",
 548,971,"Available",,,,,
-548,972,"Available",,,,,
+548,972,"Assigned","Clinton","ON","Fibernetics Corporation","464D",
 548,973,"In Service","New Dundee","ON","ISP Telecom","4727",
 548,974,"In Service","London","ON","Fibernetics Corporation","464D",
 548,975,"In Service","Strathroy","ON","Fibernetics Corporation","464D",
