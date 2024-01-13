@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-10
+,,,,,,,2024-01-11
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -8944,7 +8944,7 @@
 365,341,"In Service","Brampton","ON","Bell Mobility","6574",
 365,342,"In Service","Cayuga","ON","ISP Telecom","4727",
 365,343,"Not Available",,,,,"Not available - existing Canadian NPA"
-365,344,"Available",,,,,
+365,344,"Assigned","Aurora","ON","Bell Mobility","6574",
 365,345,"In Service","Claremont","ON","IXICA Communications Inc.","812H",
 365,346,"In Service","Campbellville","ON","Fibernetics Corporation","464D",
 365,347,"In Service","Georgetown","ON","Fibernetics Corporation","464D",
@@ -22550,7 +22550,7 @@
 548,347,"In Service","London","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 548,348,"In Service","London","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 548,349,"In Service","London","ON","Rogers Communications Canada Inc. (Wireless)","8821",
-548,350,"Available",,,,,
+548,350,"Assigned","Kitchener-Waterloo","ON","Bell Mobility","6574",
 548,351,"In Service","Scotland","ON","ISP Telecom","4727",
 548,352,"Available",,,,,
 548,353,"In Service","Oil Springs","ON","ISP Telecom","4727",
@@ -39162,7 +39162,7 @@
 825,959,"Plant Test",,,,,"Plant Test Code"
 825,960,"Available",,,,,
 825,961,"Available",,,,,
-825,962,"Available",,,,,
+825,962,"Assigned","Calgary","AB","TELUS Mobility","8301",
 825,963,"Assigned","Edmonton","AB","TELUS Mobility","8301",
 825,964,"Assigned","Calgary","AB","TELUS Mobility","646F",
 825,965,"Assigned","Edmonton","AB","TELUS Mobility","8301",
