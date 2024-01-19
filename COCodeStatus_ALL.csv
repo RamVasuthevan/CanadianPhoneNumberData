@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-16
+,,,,,,,2024-01-17
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Allstream Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2979,7 +2979,7 @@
 249,776,"Available",,,,,
 249,777,"In Service","Mindemoya","ON","TELUS Mobility","8303",
 249,778,"In Service","Huntsville","ON","Rogers Communications Canada Inc. (Wireless)","8821",
-249,779,"Available",,,,,
+249,779,"Assigned","Sudbury","ON","TELUS Mobility","8303",
 249,780,"Available",,,,,
 249,781,"Available",,,,,
 249,782,"Available",,,,,
@@ -15203,7 +15203,7 @@
 431,200,"In Service","Winnipeg","MB","MTS Inc.","991B",
 431,201,"In Service","Snow Lake","MB","MTS Inc.","991B",
 431,202,"Assigned","Winnipeg","MB","Videotron Ltd.","328F",
-431,203,"Available",,,,,
+431,203,"Assigned","Winnipeg","MB","Bell Mobility","6574",
 431,204,"Not Available",,,,,"Home NPA"
 431,205,"In Service","Steinbach","MB","Rogers Communications Canada Inc. (Wireless)","8821",
 431,206,"In Service","Winnipeg","MB","Bell Mobility","6574",
