@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-21
+,,,,,,,2024-01-22
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -4981,7 +4981,7 @@
 263,378,"Available",,,,,
 263,379,"Available",,,,,
 263,380,"Assigned","Montreal","QC","Videotron Ltd.","328F",
-263,381,"Available",,,,,
+263,381,"Assigned","Montreal","QC","Videotron Ltd.","328F",
 263,382,"Available",,,,,
 263,383,"Available",,,,,
 263,384,"Available",,,,,
@@ -16534,7 +16534,7 @@
 437,731,"Available",,,,,
 437,732,"Available",,,,,
 437,733,"In Service","Toronto","ON","Fido Solutions Inc.","5643",
-437,734,"Available",,,,,
+437,734,"Assigned","Toronto","ON","TELUS Mobility","8303",
 437,735,"Available",,,,,
 437,736,"Available",,,,,
 437,737,"In Service","Toronto","ON","Iristel Inc.","346J",
@@ -32888,7 +32888,7 @@
 742,285,"Available",,,,,
 742,286,"Available",,,,,
 742,287,"Available",,,,,
-742,288,"Available",,,,,
+742,288,"Assigned","Cobourg","ON","Rogers Communications Canada Inc. (Cable)","743B",
 742,289,"Not Available",,,,,"Home NPA"
 742,290,"Available",,,,,
 742,291,"Available",,,,,
