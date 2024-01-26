@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-01-23
+,,,,,,,2024-01-24
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2064,7 +2064,7 @@
 236,661,"Available",,,,,
 236,662,"Assigned","Vancouver","BC","Bell Mobility","6574",
 236,663,"In Service","West Vancouver","BC","IXICA Communications Inc.","812H",
-236,664,"Available",,,,,
+236,664,"Assigned","Vancouver","BC","Bell Mobility","6574",
 236,665,"Available",,,,,
 236,666,"In Service","Vancouver","BC","IXICA Communications Inc.","812H",
 236,667,"Available",,,,,
