@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-03-17
+,,,,,,,2024-03-18
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -40159,10 +40159,10 @@
 873,356,"In Service","Gentilly","QC","Bell Canada","984C",
 873,357,"In Service","Waswanipi","QC","Bell Mobility","6574",
 873,358,"In Service","Eastmain","QC","Bell Mobility","6574",
-873,359,"Being Recovered","Saint-Paulin","QC","Cooptel","818D",
-873,360,"Being Recovered","Charette","QC","Cooptel","818D",
-873,361,"Being Recovered","Saint-Alexis-Des-Monts","QC","Cooptel","818D",
-873,362,"Being Recovered","Saint-Barnabe","QC","Cooptel","818D",
+873,359,"Recovered/Aging",,,,,
+873,360,"Recovered/Aging",,,,,
+873,361,"Recovered/Aging",,,,,
+873,362,"Recovered/Aging",,,,,
 873,363,"In Service","Deauville","QC","Iristel Inc.","154E",
 873,364,"In Service","Mont-Laurier","QC","Bell Canada","984C",
 873,365,"In Service","Chisasibi","QC","Bell Mobility","6574",
