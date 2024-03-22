@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-03-19
+,,,,,,,2024-03-20
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -22702,9 +22702,9 @@
 548,499,"In Service","Woodslee","ON","IXICA Communications Inc.","812H",
 548,500,"In Service","Kingsville","ON","IXICA Communications Inc.","812H",
 548,501,"In Service","Tillsonburg","ON","Iristel Inc.","154E",
-548,502,"Available",,,,,
+548,502,"Assigned","Simcoe","ON","Freedom Mobile Inc.","383F",
 548,503,"Assigned","Orangeville","ON","Freedom Mobile Inc.","383F",
-548,504,"Available",,,,,
+548,504,"Assigned","Sarnia","ON","Freedom Mobile Inc.","383F",
 548,505,"In Service","Owen Sound","ON","Iristel Inc.","154E",
 548,506,"Available",,,,,
 548,507,"In Service","Highgate","ON","ISP Telecom Inc.","4727",
