@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-03-20
+,,,,,,,2024-03-21
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9920,10 +9920,10 @@
 367,517,"Available",,,,,
 367,518,"Available",,,,,
 367,519,"Available",,,,,
-367,520,"Available",,,,,
-367,521,"Available",,,,,
-367,522,"Available",,,,,
-367,523,"Available",,,,,
+367,520,"Assigned","Matane","QC","Videotron Ltd.","328F",
+367,521,"Assigned","New Richmond","QC","Videotron Ltd.","328F",
+367,522,"Assigned","Gaspe","QC","Videotron Ltd.","328F",
+367,523,"Assigned","Sept-Iles","QC","Videotron Ltd.","328F",
 367,524,"Available",,,,,
 367,525,"Available",,,,,
 367,526,"Available",,,,,
