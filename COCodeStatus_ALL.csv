@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-03-25
+,,,,,,,2024-03-26
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -7509,7 +7509,7 @@
 343,506,"In Service","Lancaster","ON","ISP Telecom Inc.","4727",
 343,507,"In Service","Brockville","ON","Freedom Mobile Inc.","383F",
 343,508,"Assigned","Rolphton","ON","TELUS Integrated Communications","2782",
-343,509,"Available",,,,,
+343,509,"Assigned","Smiths Falls","ON","Freedom Mobile Inc.","383F",
 343,510,"Available",,,,,
 343,511,"For Special Use",,,,,"Weather and Traveller Information Services"
 343,512,"In Service","Hawkesbury","ON","Iristel Inc.","154E",
