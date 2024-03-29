@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-03-26
+,,,,,,,2024-03-28
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -11482,9 +11482,9 @@
 382,479,"Available",,,,,
 382,480,"Available",,,,,
 382,481,"Available",,,,,
-382,482,"Available",,,,,
-382,483,"Available",,,,,
-382,484,"Available",,,,,
+382,482,"Assigned","Stratford","ON","Fibernetics Corporation","464D",
+382,483,"Assigned","Chatham","ON","Fibernetics Corporation","464D",
+382,484,"Assigned","Brantford","ON","Fibernetics Corporation","464D",
 382,485,"Available",,,,,
 382,486,"Available",,,,,
 382,487,"Not Available",,,,,"Not available - reserved for future NPA relief in SW Ontario iaw CRTC Decision 2013-575"
