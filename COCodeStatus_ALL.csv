@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-03-31
+,,,,,,,2024-04-01
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -14780,7 +14780,7 @@
 428,577,"Available",,,,,
 428,578,"Available",,,,,
 428,579,"Available",,,,,
-428,580,"Assigned","Bathurst","NB","TELUS Mobility","8303",
+428,580,"In Service","Bathurst","NB","TELUS Mobility","8303",
 428,581,"Available",,,,,
 428,582,"Available",,,,,
 428,583,"Available",,,,,
@@ -15199,7 +15199,7 @@
 428,996,"Available",,,,,
 428,997,"Available",,,,,
 428,998,"Available",,,,,
-428,999,"Assigned","Miramichi","NB","TELUS Mobility","8303",
+428,999,"In Service","Miramichi","NB","TELUS Mobility","8303",
 431,200,"In Service","Winnipeg","MB","MTS Inc.","991B",
 431,201,"In Service","Snow Lake","MB","MTS Inc.","991B",
 431,202,"Assigned","Winnipeg","MB","Videotron Ltd.","328F",
@@ -28700,7 +28700,7 @@
 639,897,"In Service","Wilkie","SK","Bell Mobility","6574",
 639,898,"In Service","Turtleford","SK","Bell Mobility","6574",
 639,899,"In Service","Unity","SK","Bell Mobility","6574",
-639,900,"Available",,,,,
+639,900,"Assigned","Cut Knife","SK","Access Communications Co-operative Limited","280H",
 639,901,"In Service","Hepburn","SK","SaskTel Mobility","9868",
 639,902,"In Service","Imperial","SK","SaskTel Mobility","9868",
 639,903,"In Service","Lemberg","SK","SaskTel Mobility","9868",
