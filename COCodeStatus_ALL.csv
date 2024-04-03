@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-01
+,,,,,,,2024-04-02
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -16364,8 +16364,8 @@
 437,561,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
 437,562,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
 437,563,"Available",,,,,
-437,564,"Assigned","Toronto","ON","TELUS Integrated Communications","2782",
-437,565,"Assigned","Toronto","ON","TELUS Integrated Communications","2782",
+437,564,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
+437,565,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
 437,566,"In Service","Toronto","ON","Fido Solutions Inc.","5643",
 437,567,"Available",,,,,
 437,568,"Available",,,,,
@@ -40648,7 +40648,7 @@
 873,845,"Available",,,,,
 873,846,"Available",,,,,
 873,847,"Available",,,,,
-873,848,"Available",,,,,
+873,848,"Assigned","La Sarre","QC",,"342K",
 873,849,"Available",,,,,
 873,850,"Available",,,,,
 873,851,"Not Available",,,,,"Not available iaw Section 3.7 of CO Code Guidelines: Future Canadian Geographic NPA"
