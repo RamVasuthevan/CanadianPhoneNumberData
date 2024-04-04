@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-02
+,,,,,,,2024-04-03
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -29604,7 +29604,7 @@
 672,201,"In Service","Agassiz","BC","ISP Telecom Inc.","4727",
 672,202,"In Service","Cache Creek","BC","Iristel Inc.","154E",
 672,203,"In Service","Cache Creek","BC","Iristel Inc.","154E",
-672,204,"Assigned","Victoria","BC","Freedom Mobile Inc.","383F",
+672,204,"In Service","Victoria","BC","Freedom Mobile Inc.","383F",
 672,205,"In Service","Vancouver","BC","Iristel Inc.","154E",
 672,206,"In Service","Vancouver","BC","Iristel Inc.","154E",
 672,207,"In Service","Castlegar","BC","Iristel Inc.","154E",
@@ -40648,7 +40648,7 @@
 873,845,"Available",,,,,
 873,846,"Available",,,,,
 873,847,"Available",,,,,
-873,848,"Assigned","La Sarre","QC",,"342K",
+873,848,"Assigned","La Sarre","QC","Vocom International Telecommunications, Inc.","342K",
 873,849,"Available",,,,,
 873,850,"Available",,,,,
 873,851,"Not Available",,,,,"Not available iaw Section 3.7 of CO Code Guidelines: Future Canadian Geographic NPA"
