@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-03
+,,,,,,,2024-04-04
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2475,7 +2475,7 @@
 249,272,"In Service","Blezard Valley","ON","Distributel","082E",
 249,273,"In Service","Capreol","ON","Distributel","082E",
 249,274,"In Service","Cartier","ON","Distributel","082E",
-249,275,"Available",,,,,"Available outside Kashechewan EAS"
+249,275,"Assigned","Espanola","ON","Bragg Communications Inc.","421G","Available outside Kashechewan EAS"
 249,276,"In Service","Chapleau","ON","Distributel","082E",
 249,277,"In Service","Chelmsford","ON","Distributel","082E",
 249,278,"In Service","Pineal Lake","ON","Distributel","082E","Available outside Fort Albany EAS"
@@ -32121,7 +32121,7 @@
 709,318,"In Service","Portugal Cove","NL","Distributel","081E",
 709,319,"In Service","St. Lawrence","NL","Distributel","081E",
 709,320,"In Service","St. Lawrence","NL","Bell Mobility Aliant","329A",
-709,321,"Available",,,,,
+709,321,"Assigned","Carbonear","NL","Bragg Communications Inc.","421G",
 709,322,"In Service","Benoit's Cove","NL","Bragg Communications Inc.","4878",
 709,323,"In Service","Harbour Breton","NL","Bell Mobility Aliant","329A",
 709,324,"In Service","St. Alban's","NL","Bell Mobility Aliant","329A",
@@ -32140,7 +32140,7 @@
 709,337,"In Service","St. Bride's","NL","Aliant Telecom (NF)","8085",
 709,338,"In Service","Branch","NL","Aliant Telecom (NF)","8085",
 709,339,"Being Recovered","Happy Valley - Goose Bay","NL","Bragg Communications Inc.","421G",
-709,340,"Available",,,,,
+709,340,"Assigned","Bay Roberts","NL","Bragg Communications Inc.","421G",
 709,341,"In Service","St. John's","NL","Fido Solutions Inc.","8820",
 709,342,"In Service","Burin","NL","Bragg Communications Inc.","4878",
 709,343,"In Service","St. Anthony","NL","Bragg Communications Inc.","4878",
