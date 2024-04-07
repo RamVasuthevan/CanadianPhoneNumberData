@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-04
+,,,,,,,2024-04-05
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -29750,7 +29750,7 @@
 672,347,"Available",,,,,
 672,348,"Available",,,,,
 672,349,"Available",,,,,
-672,350,"Available",,,,,
+672,350,"Assigned","Nanaimo","BC","TELUS","8086",
 672,351,"Available",,,,,
 672,352,"Available",,,,,
 672,353,"Available",,,,,
@@ -29795,7 +29795,7 @@
 672,392,"Available",,,,,
 672,393,"Available",,,,,
 672,394,"Available",,,,,
-672,395,"Available",,,,,
+672,395,"Assigned","Richmond","BC","TELUS","8086",
 672,396,"Available",,,,,
 672,397,"Available",,,,,
 672,398,"Available",,,,,
