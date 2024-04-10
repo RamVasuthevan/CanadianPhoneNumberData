@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-07
+,,,,,,,2024-04-08
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -1609,7 +1609,7 @@
 236,206,"In Service","Aldergrove","BC","IXICA Communications Inc.","812H",
 236,207,"In Service","Boston Bar","BC","IXICA Communications Inc.","812H",
 236,208,"In Service","Bowen Island","BC","IXICA Communications Inc.","812H",
-236,209,"Available",,,,,
+236,209,"Assigned","Salmon Arm","BC","Freedom Mobile Inc.","383F",
 236,210,"In Service","Britannia Beach","BC","IXICA Communications Inc.","812H",
 236,211,"For Special Use",,,,,"Public Information and Referral Services"
 236,212,"In Service","Greenwood","BC","Navigata Communications Limited","078G",
@@ -16367,8 +16367,8 @@
 437,564,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
 437,565,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
 437,566,"In Service","Toronto","ON","Fido Solutions Inc.","5643",
-437,567,"Available",,,,,
-437,568,"Available",,,,,
+437,567,"Assigned","Toronto","ON","TELUS Integrated Communications","2782",
+437,568,"Assigned","Toronto","ON","TELUS Integrated Communications","2782",
 437,569,"Available",,,,,
 437,570,"Available",,,,,
 437,571,"Available",,,,,
@@ -38913,7 +38913,7 @@
 825,710,"In Service","Calgary","AB","TELUS","8084",
 825,711,"For Special Use",,,,,"Message Relay"
 825,712,"In Service","Calgary","AB","Freedom Mobile Inc.","787G",
-825,713,"Available",,,,,
+825,713,"Assigned","Camrose","AB","Freedom Mobile Inc.","383F",
 825,714,"In Service","Calgary","AB","Bell Mobility","6574",
 825,715,"In Service","Calgary","AB","Bell Mobility","6574",
 825,716,"In Service","Calgary","AB","Bell Mobility","6574",
@@ -38970,8 +38970,8 @@
 825,767,"Available",,,,,
 825,768,"Available",,,,,
 825,769,"Available",,,,,
-825,770,"Available",,,,,
-825,771,"Available",,,,,
+825,770,"Assigned","Edson","AB","Freedom Mobile Inc.","383F",
+825,771,"Assigned","Stony Plain","AB","Freedom Mobile Inc.","383F",
 825,772,"Available",,,,,
 825,773,"Available",,,,,
 825,774,"Available",,,,,
