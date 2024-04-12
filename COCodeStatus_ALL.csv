@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-09
+,,,,,,,2024-04-10
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9783,7 +9783,7 @@
 367,380,"In Service","Quebec","QC","Videotron Ltd.","328F",
 367,381,"In Service","Quebec","QC","Videotron Ltd.","328F",
 367,382,"In Service","Quebec","QC","Videotron Ltd.","328F",
-367,383,"Assigned","Quebec","QC","Videotron Ltd.","328F",
+367,383,"In Service","Quebec","QC","Videotron Ltd.","328F",
 367,384,"Available",,,,,
 367,385,"Available",,,,,
 367,386,"Available",,,,,
@@ -17145,7 +17145,7 @@
 438,542,"In Service","Montreal","QC","Videotron Ltd.","328F",
 438,543,"In Service","Montreal","QC","Videotron Ltd.","328F",
 438,544,"In Service","Montreal","QC","Iristel Inc.","154E",
-438,545,"Assigned","Montreal","QC","Videotron Ltd.","328F",
+438,545,"In Service","Montreal","QC","Videotron Ltd.","328F",
 438,546,"Available",,,,,
 438,547,"Available",,,,,
 438,548,"In Service","Montreal","QC","FGLTEL Inc.","139J",
