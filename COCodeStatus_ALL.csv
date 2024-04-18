@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-15
+,,,,,,,2024-04-16
 204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -15308,7 +15308,7 @@
 431,305,"In Service","Stonewall","MB","Iristel Inc.","154E",
 431,306,"In Service","Portage La Prairie","MB","Iristel Inc.","154E",
 431,307,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
-431,308,"Stranded Code","Brandon","MB",,,"Potentially Stranded"
+431,308,"In Service","Brandon","MB","TELUS Mobility","8303",
 431,309,"Stranded Code","Steinbach","MB",,,"Potentially Stranded"
 431,310,"Moratorium on Assignment",,,,,
 431,311,"For Special Use",,,,,"Non-Emergency Municipal Government Services"
