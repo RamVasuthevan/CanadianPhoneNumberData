@@ -1,6 +1,6 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-16
-204,200,"In Service","Winnipeg","MB","FlexITy Solutions Inc","930E",
+,,,,,,,2024-04-17
+204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
 204,203,"In Service","Poplar Point","MB","Provincial Tel Inc.","498E",
@@ -23575,7 +23575,7 @@
 579,572,"In Service","Marieville","QC","Fibernetics Corporation","464D",
 579,573,"In Service","Varennes","QC","Fibernetics Corporation","464D",
 579,574,"In Service","Ste-Marguerite","QC","Cooptel","818D",
-579,575,"Assigned","Ste-Martine","QC","TELUS Quebec","2243",
+579,575,"In Service","Ste-Martine","QC","TELUS Quebec","2243",
 579,576,"Available",,,,,
 579,577,"In Service","St-Vincent-de-Paul","QC","IXICA Communications Inc.","812H",
 579,578,"In Service","St-Vincent-de-Paul","QC","Fibernetics Corporation","464D",
@@ -29200,8 +29200,8 @@
 647,597,"In Service","Toronto","ON","Bell Mobility","6574",
 647,598,"In Service","Toronto","ON","TELUS Integrated Communications","2782",
 647,599,"In Service","Toronto","ON","Rogers Communications Canada Inc. (Wireless)","8821",
-647,600,"In Service","Toronto","ON","FlexITy Solutions Inc","930E",
-647,601,"In Service","Toronto","ON","FlexITy Solutions Inc","930E",
+647,600,"In Service","Toronto","ON","ISP Telecom Inc.","4727",
+647,601,"In Service","Toronto","ON","ISP Telecom Inc.","4727",
 647,602,"In Service","Toronto","ON","Bell Canada","8051",
 647,603,"In Service","Toronto","ON","Bell Mobility","6574",
 647,604,"In Service","Toronto","ON","Bell Mobility","6574",
@@ -40245,7 +40245,7 @@
 873,442,"In Service","Windsor","QC","Fibernetics Corporation","464D",
 873,443,"In Service","Wotton","QC","Fibernetics Corporation","464D",
 873,444,"In Service","Aylmer","QC","InnSysVoice Corp","383H",
-873,445,"Assigned","Stoke","QC","TELUS Quebec","2243",
+873,445,"In Service","Stoke","QC","TELUS Quebec","2243",
 873,446,"Available",,,,,
 873,447,"Available",,,,,
 873,448,"In Service","Drummondville","QC","Fibernetics Corporation","464D",
