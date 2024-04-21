@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-18
+,,,,,,,2024-04-19
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -41210,7 +41210,7 @@
 879,607,"Available",,,,,
 879,608,"Available",,,,,
 879,609,"Available",,,,,
-879,610,"New NPA Testing","St. John's","NL","Aliant Telecom (NF)","8085",
+879,610,"Moratorium on Assignment",,,,,
 879,611,"For Special Use",,,,,"Repair Service"
 879,612,"Available",,,,,
 879,613,"Available",,,,,
@@ -41230,7 +41230,7 @@
 879,627,"Available",,,,,
 879,628,"Available",,,,,
 879,629,"Available",,,,,
-879,630,"New NPA Testing","Corner Brook","NL","Aliant Telecom (NF)","8085",
+879,630,"Being Recovered","Corner Brook","NL","Aliant Telecom (NF)","8085",
 879,631,"Available",,,,,
 879,632,"Available",,,,,
 879,633,"Available",,,,,
@@ -41240,7 +41240,7 @@
 879,637,"Available",,,,,
 879,638,"Available",,,,,
 879,639,"Available",,,,,
-879,640,"New NPA Testing","Happy Valley - Goose Bay","NL","Aliant Telecom (NF)","8085",
+879,640,"Being Recovered","Happy Valley - Goose Bay","NL","Aliant Telecom (NF)","8085",
 879,641,"Available",,,,,
 879,642,"Available",,,,,
 879,643,"Available",,,,,
