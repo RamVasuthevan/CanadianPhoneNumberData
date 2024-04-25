@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-22
+,,,,,,,2024-04-23
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -4980,9 +4980,9 @@
 263,377,"Available",,,,,
 263,378,"Available",,,,,
 263,379,"Available",,,,,
-263,380,"Assigned","Montreal","QC","Videotron Ltd.","328F",
-263,381,"Assigned","Montreal","QC","Videotron Ltd.","328F",
-263,382,"Available",,,,,
+263,380,"In Service","Montreal","QC","Videotron Ltd.","328F",
+263,381,"In Service","Montreal","QC","Videotron Ltd.","328F",
+263,382,"Assigned","Montreal","QC","Videotron Ltd.","328F",
 263,383,"Available",,,,,
 263,384,"Available",,,,,
 263,385,"Available",,,,,
