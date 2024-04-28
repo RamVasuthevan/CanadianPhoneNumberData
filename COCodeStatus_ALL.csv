@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-25
+,,,,,,,2024-04-26
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9806,9 +9806,9 @@
 367,403,"In Service","Quebec","QC","Iristel Inc.","154E",
 367,404,"In Service","Quebec","QC","Iristel Inc.","154E",
 367,405,"In Service","Quebec","QC","Iristel Inc.","154E",
-367,406,"Assigned","Quebec","QC","Iristel Inc.","154E",
-367,407,"Assigned","Quebec","QC","Iristel Inc.","154E",
-367,408,"Assigned","Quebec","QC","Iristel Inc.","154E",
+367,406,"In Service","Quebec","QC","Iristel Inc.","154E",
+367,407,"In Service","Quebec","QC","Iristel Inc.","154E",
+367,408,"In Service","Quebec","QC","Iristel Inc.","154E",
 367,409,"Available",,,,,
 367,410,"Available",,,,,
 367,411,"For Special Use",,,,,"Directory Assistance"
@@ -17514,8 +17514,8 @@
 438,911,"For Special Use",,,,,"Emergency Service"
 438,912,"In Service","Montreal","QC","Iristel Inc.","154E",
 438,913,"Assigned","Montreal","QC","Iristel Inc.","154E",
-438,914,"Assigned","Montreal","QC","Iristel Inc.","154E",
-438,915,"Assigned","Montreal","QC","Iristel Inc.","154E",
+438,914,"In Service","Montreal","QC","Iristel Inc.","154E",
+438,915,"In Service","Montreal","QC","Iristel Inc.","154E",
 438,916,"Available",,,,,
 438,917,"Available",,,,,
 438,918,"Available",,,,,
@@ -38778,7 +38778,7 @@
 825,575,"Assigned","St. Paul","AB","Iristel Inc.","154E",
 825,576,"Available",,,,,
 825,577,"In Service","Calgary","AB","Iristel Inc.","346J",
-825,578,"Assigned","Calgary","AB","Iristel Inc.","346J",
+825,578,"In Service","Calgary","AB","Iristel Inc.","346J",
 825,579,"In Service","Calgary","AB","Iristel Inc.","346J",
 825,580,"In Service","Calgary","AB","TELUS Mobility","8301",
 825,581,"Available",,,,,
