@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-28
+,,,,,,,2024-04-29
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -11883,10 +11883,10 @@
 382,880,"In Service","Windsor","ON","Fido Solutions Inc.","5643",
 382,881,"Assigned","Delhi","ON","Rogers Communications Canada Inc. (Cable)","743B",
 382,882,"In Service","London","ON","Fido Solutions Inc.","5643",
-382,883,"Available",,,,,
+382,883,"Assigned","Otterville","ON","Rogers Communications Canada Inc. (Cable)","743B",
 382,884,"Available",,,,,
 382,885,"In Service","Kitchener-Waterloo","ON","Fido Solutions Inc.","5643",
-382,886,"Available",,,,,
+382,886,"Assigned","Port Dover","ON","Rogers Communications Canada Inc. (Cable)","743B",
 382,887,"Available",,,,,
 382,888,"In Service","Parkhill","ON","IXICA Communications Inc.","812H",
 382,889,"Assigned","Kitchener-Waterloo","ON","Rogers Communications Canada Inc. (Wireless)","8821",
@@ -33477,7 +33477,7 @@
 742,874,"Available",,,,,
 742,875,"Available",,,,,
 742,876,"Available",,,,,
-742,877,"Available",,,,,
+742,877,"Assigned","Fisherville","ON","Rogers Communications Canada Inc. (Cable)","743B",
 742,878,"Available",,,,,
 742,879,"Available",,,,,
 742,880,"Assigned","Hamilton","ON","Rogers Communications Canada Inc. (Wireless)","8821",
