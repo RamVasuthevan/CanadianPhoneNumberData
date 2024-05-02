@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-29
+,,,,,,,2024-04-30
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -20101,9 +20101,9 @@
 506,298,"In Service","Campbellton","NB","Bragg Communications Inc.","421G",
 506,299,"In Service","Memramcook","NB","Rogers Communications Canada Inc.","571G",
 506,300,"In Service","Fredericton","NB","Iristel Inc.","154E",
-506,301,"New Entrants Reserved",,,,,"Reserved New Entrants iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
-506,302,"New Entrants Reserved",,,,,"Reserved New Entrants iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
-506,303,"New Entrants Reserved",,,,,"Reserved New Entrants iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
+506,301,"Available",,,,,
+506,302,"Available",,,,,
+506,303,"Available",,,,,
 506,304,"In Service","Fredericton","NB","Bragg Communications Inc.","421G",
 506,305,"In Service","Edmundston","NB","Iristel Inc.","154E",
 506,306,"In Service","Edmundston","NB","Iristel Inc.","154E",
@@ -20565,10 +20565,10 @@
 506,762,"Available",,,,,
 506,763,"In Service","Summerville","NB","Aliant Telecom(NB)","8090",
 506,764,"In Service","Paquetville","NB","Aliant Telecom(NB)","8090",
-506,765,"Available as Initial Code only",,,,,"Reserved Initial Code Assignment iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
-506,766,"Available as Initial Code only",,,,,"Reserved Initial Code Assignment iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
-506,767,"Available as Initial Code only",,,,,"Reserved Initial Code Assignment iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
-506,768,"Available as Initial Code only",,,,,"Reserved Initial Code Assignment iaw Telecom Decision CRTC 2016-206 - Can be made available upon request"
+506,765,"Available",,,,,
+506,766,"Available",,,,,
+506,767,"Available",,,,,
+506,768,"Available",,,,,
 506,769,"Available",,,,,
 506,770,"In Service","Saint John","NB","Iristel Inc.","346J",
 506,771,"In Service","Browns Flat","NB","Rogers Communications Canada Inc. (Cable)","743B",
@@ -23552,8 +23552,8 @@
 579,549,"Available",,,,,
 579,550,"In Service","Longueuil","QC","Iristel Inc.","154E",
 579,551,"In Service","Mirabel-St-Augustin","QC","ISP Telecom Inc.","4727",
-579,552,"Being Recovered","St-Lin","QC","Cooptel","818D",
-579,553,"Being Recovered","St-Calixte-de-Kilkenny","QC","Cooptel","818D",
+579,552,"Recovered/Aging",,,,,
+579,553,"Recovered/Aging",,,,,
 579,554,"Available",,,,,
 579,555,"For Special Use",,,,,"Universal Information"
 579,556,"In Service","Upton","QC","Cooptel","818D",
