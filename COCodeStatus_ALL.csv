@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-04-30
+,,,,,,,2024-05-01
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2676,7 +2676,7 @@
 249,473,"Available",,,,,"Available outside Peawanuck EAS"
 249,474,"Available",,,,,
 249,475,"Available",,,,,
-249,476,"Available",,,,,
+249,476,"Assigned","Foleyet","ON","Iristel Inc.","154E",
 249,477,"In Service","Lindsay","ON","ISP Telecom Inc.","4727",
 249,478,"In Service","Huntsville","ON","ISP Telecom Inc.","4727",
 249,479,"In Service","Sault Ste. Marie","ON","ISP Telecom Inc.","4727",
@@ -9248,7 +9248,7 @@
 365,645,"In Service","Streetsville","ON","Iristel Inc.","154E",
 365,646,"Available",,,,,
 365,647,"Not Available",,,,,"Not available - existing Canadian NPA"
-365,648,"Available",,,,,
+365,648,"Assigned","Claremont","ON","Iristel Inc.","154E",
 365,649,"In Service","Claremont","ON","Iristel Inc.","154E",
 365,650,"In Service","Claremont","ON","Iristel Inc.","154E",
 365,651,"In Service","Dunnville","ON","Iristel Inc.","154E",
@@ -9502,7 +9502,7 @@
 365,899,"In Service","Markham","ON","Rogers Communications Canada Inc.","571G",
 365,900,"In Service","Bradford","ON","InnSysVoice Corp","383H",
 365,901,"In Service","Beeton","ON","InnSysVoice Corp","383H",
-365,902,"Available",,,,,
+365,902,"Assigned","Ancaster","ON","Iristel Inc.","154E",
 365,903,"Available",,,,,
 365,904,"Available",,,,,
 365,905,"Not Available",,,,,"Home NPA"
@@ -11895,7 +11895,7 @@
 382,892,"Available",,,,,
 382,893,"Available",,,,,
 382,894,"Available",,,,,
-382,895,"Available",,,,,
+382,895,"Assigned","Galt","ON","Iristel Inc.","154E",
 382,896,"In Service","Kitchener-Waterloo","ON","Iristel Inc.","154E",
 382,897,"Available",,,,,
 382,898,"Available",,,,,
@@ -39673,7 +39673,7 @@
 867,670,"In Service","Tuktoyaktuk","NT","Iristel Inc.","154E",
 867,671,"In Service","Tuktoyaktuk","NT","Ice Wireless Inc.","630G",
 867,672,"Not Available",,,,,"Not available - existing Canadian NPA"
-867,673,"Available",,,,,
+867,673,"Assigned","Tuktoyaktuk","NT","Iristel Inc.","154E",
 867,674,"Available",,,,,
 867,675,"In Service","Yellowknife","NT","Iristel Inc.","154E",
 867,676,"In Service","Yellowknife","NT","Iristel Inc.","154E",
@@ -39734,7 +39734,7 @@
 867,731,"In Service","Behchoko","NT","Iristel Inc.","154E",
 867,732,"In Service","Behchoko","NT","Ice Wireless Inc.","630G",
 867,733,"In Service","Carcross","YT","Bell Mobility","6574",
-867,734,"Available",,,,,
+867,734,"Assigned","Behchoko","NT","Iristel Inc.","154E",
 867,735,"Available",,,,,
 867,736,"Available",,,,,
 867,737,"Available",,,,,
