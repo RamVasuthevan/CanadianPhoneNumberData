@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-05-05
+,,,,,,,2024-05-06
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9602,7 +9602,7 @@
 365,999,"In Service","Burlington","ON","TELUS Mobility","8303",
 367,200,"In Service","Boischatel","QC","IXICA Communications Inc.","812H",
 367,201,"Available",,,,,
-367,202,"Available",,,,,
+367,202,"Assigned","Alma","QC","Iristel Inc.","154E",
 367,203,"Available",,,,,
 367,204,"Available",,,,,
 367,205,"Available",,,,,
@@ -9918,7 +9918,7 @@
 367,515,"Available",,,,,
 367,516,"Available",,,,,
 367,517,"Available",,,,,
-367,518,"Available",,,,,
+367,518,"Assigned","Aguanish","QC","Iristel Inc.","154E",
 367,519,"Available",,,,,
 367,520,"Assigned","Matane","QC","Videotron Ltd.","328F",
 367,521,"Assigned","New Richmond","QC","Videotron Ltd.","328F",
@@ -36619,7 +36619,7 @@
 782,816,"Available",,,,,
 782,817,"Available",,,,,
 782,818,"Available",,,,,
-782,819,"Available",,,,,
+782,819,"Assigned","Montague","PE","Iristel Inc.","154E",
 782,820,"In Service","Digby","NS","Iristel Inc.","154E",
 782,821,"In Service","Liverpool","NS","Iristel Inc.","154E",
 782,822,"In Service","Middleton","NS","Iristel Inc.","154E",
@@ -40370,7 +40370,7 @@
 873,567,"In Service","Wakefield","QC","Videotron Ltd.","8306",
 873,568,"In Service","Gracefield","QC","Videotron Ltd.","8306",
 873,569,"In Service","Ottawa-Hull","QC","Videotron Ltd.","328F",
-873,570,"Available",,,,,
+873,570,"Assigned","Akulivik","QC","Iristel Inc.","154E",
 873,571,"Available",,,,,
 873,572,"Available",,,,,
 873,573,"Assigned","Notre-Dame-de-la-Paix","QC","TELUS Quebec","2243",
