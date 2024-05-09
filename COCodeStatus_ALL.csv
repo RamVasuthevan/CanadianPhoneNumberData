@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-05-06
+,,,,,,,2024-05-07
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9918,7 +9918,7 @@
 367,515,"Available",,,,,
 367,516,"Available",,,,,
 367,517,"Available",,,,,
-367,518,"Assigned","Aguanish","QC","Iristel Inc.","154E",
+367,518,"Assigned","Amqui","QC","Iristel Inc.","154E",
 367,519,"Available",,,,,
 367,520,"Assigned","Matane","QC","Videotron Ltd.","328F",
 367,521,"Assigned","New Richmond","QC","Videotron Ltd.","328F",
@@ -16249,7 +16249,7 @@
 437,446,"In Service","Toronto","ON","Bell Mobility","6574",
 437,447,"In Service","Toronto","ON","Iristel Inc.","154E",
 437,448,"In Service","Toronto","ON","Bell Mobility","6574",
-437,449,"Assigned","Toronto","ON","Bell Mobility","6574",
+437,449,"In Service","Toronto","ON","Bell Mobility","6574",
 437,450,"In Service","Toronto","ON","Freedom Mobile Inc.","787G",
 437,451,"Assigned","Toronto","ON","Bell Mobility","6574",
 437,452,"Assigned","Toronto","ON","Bell Mobility","6574",
@@ -17135,7 +17135,7 @@
 438,532,"Available",,,,,
 438,533,"In Service","Montreal","QC","Iristel Inc.","154E",
 438,534,"Available",,,,,
-438,535,"Assigned","Montreal","QC","Bell Mobility","6574",
+438,535,"In Service","Montreal","QC","Bell Mobility","6574",
 438,536,"Available",,,,,
 438,537,"Not Available",,,,,"Not available iaw Section 3.7 of CO Code Guidelines: Future Canadian Geographic NPA"
 438,538,"In Service","Pointe-Claire","QC","Fibernetics Corporation","464D",
