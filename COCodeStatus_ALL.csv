@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-05-07
+,,,,,,,2024-05-08
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9907,7 +9907,7 @@
 367,504,"Available",,,,,
 367,505,"In Service","Chute-des-Passes","QC","ISP Telecom Inc.","4727",
 367,506,"Available",,,,,
-367,507,"Available",,,,,
+367,507,"Assigned","Baie-Comeau (Hauterive)","QC","Iristel Inc.","154E",
 367,508,"Available",,,,,
 367,509,"Available",,,,,
 367,510,"Available",,,,,
@@ -29781,8 +29781,8 @@
 672,378,"Assigned","Abbotsford","BC","Bell Mobility","6574",
 672,379,"Assigned","Abbotsford","BC","Bell Mobility","6574",
 672,380,"In Service","Vancouver","BC","Videotron Ltd.","328F",
-672,381,"Assigned","Victoria","BC","Videotron Ltd.","328F",
-672,382,"Assigned","Abbotsford","BC","Videotron Ltd.","328F",
+672,381,"In Service","Victoria","BC","Videotron Ltd.","328F",
+672,382,"In Service","Abbotsford","BC","Videotron Ltd.","328F",
 672,383,"Assigned","Kelowna","BC","Videotron Ltd.","328F",
 672,384,"Assigned","South Kamloops","BC","Videotron Ltd.","328F",
 672,385,"Assigned","Prince George","BC","Videotron Ltd.","328F",
@@ -40543,7 +40543,7 @@
 873,740,"In Service","Buckingham","QC","Iristel Inc.","154E",
 873,741,"In Service","Plessisville","QC","Iristel Inc.","154E",
 873,742,"In Service","Buckingham","QC","Iristel Inc.","154E",
-873,743,"Available",,,,,
+873,743,"Assigned","Buckingham","QC","Iristel Inc.","154E",
 873,744,"In Service","Thurso","QC","InnSysVoice Corp","383H",
 873,745,"In Service","Manseau","QC","Bell Canada","984C",
 873,746,"In Service","Shawville","QC","Bell Mobility","6574",
