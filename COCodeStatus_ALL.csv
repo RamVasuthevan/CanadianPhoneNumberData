@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-05-13
+,,,,,,,2024-05-14
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9916,7 +9916,7 @@
 367,513,"Available",,,,,
 367,514,"Available",,,,,
 367,515,"Available",,,,,
-367,516,"Available",,,,,
+367,516,"Assigned","Forestville","QC","Iristel Inc.","154E",
 367,517,"Available",,,,,
 367,518,"Assigned","Amqui","QC","Iristel Inc.","154E",
 367,519,"Available",,,,,
@@ -10277,7 +10277,7 @@
 367,874,"Available",,,,,
 367,875,"Available",,,,,
 367,876,"Available",,,,,
-367,877,"Available",,,,,
+367,877,"Assigned","Grande-Vallee","QC","Iristel Inc.","154E",
 367,878,"Available",,,,,
 367,879,"Available",,,,,
 367,880,"In Service","Alma","QC","Rogers Communications Canada Inc. (Wireless)","8821",
