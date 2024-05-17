@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-05-14
+,,,,,,,2024-05-15
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -23778,7 +23778,7 @@
 579,775,"In Service","Pont-Viau","QC","IXICA Communications Inc.","812H",
 579,776,"Available",,,,,
 579,777,"In Service","Granby","QC","IXICA Communications Inc.","812H",
-579,778,"Available",,,,,
+579,778,"Assigned","Lachute","QC","Iristel Inc.","154E",
 579,779,"In Service","Pont-Viau","QC","Fibernetics Corporation","464D",
 579,780,"In Service","Mansonville","QC","IXICA Communications Inc.","812H",
 579,781,"Available",,,,,
@@ -40375,10 +40375,10 @@
 873,572,"Available",,,,,
 873,573,"Assigned","Notre-Dame-de-la-Paix","QC","TELUS Quebec","2243",
 873,574,"In Service","St-Donat-de-Montcalm","QC","Cooptel","818D",
-873,575,"Available",,,,,
-873,576,"Available",,,,,
+873,575,"Assigned","Kangiqsualujjuaq","QC","Iristel Inc.","154E",
+873,576,"Assigned","Kangiqsujuaq","QC","Iristel Inc.","154E",
 873,577,"In Service","Ottawa-Hull","QC","Rogers Communications Canada Inc. (Wireless)","8821",
-873,578,"Available",,,,,
+873,578,"Assigned","Kangirsuk","QC","Iristel Inc.","154E",
 873,579,"Not Available",,,,,"Not available - existing Canadian NPA"
 873,580,"In Service","Asbestos","QC","Fibernetics Corporation","464D",
 873,581,"In Service","Bromptonville","QC","Fibernetics Corporation","464D",
