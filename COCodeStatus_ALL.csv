@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-05-15
+,,,,,,,2024-05-16
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -10197,7 +10197,7 @@
 367,794,"Available",,,,,
 367,795,"Available",,,,,
 367,796,"Available",,,,,
-367,797,"Available",,,,,
+367,797,"Assigned","Havre-Saint-Pierre","QC","Iristel Inc.","154E",
 367,798,"Available",,,,,
 367,799,"Available",,,,,
 367,800,"In Service","La Malbaie","QC","Iristel Inc.","154E",
@@ -23984,7 +23984,7 @@
 579,981,"In Service","St-Eustache","QC","Fibernetics Corporation","464D",
 579,982,"In Service","Sorel","QC","Fibernetics Corporation","464D",
 579,983,"Available",,,,,
-579,984,"Available",,,,,
+579,984,"Assigned","L'Epiphanie-l'Assomption","QC","Iristel Inc.","154E",
 579,985,"In Service","St-Jean","QC","TELUS Mobility","8303",
 579,986,"In Service","L'Epiphanie-l'Assomption","QC","Iristel Inc.","154E",
 579,987,"In Service","Ste-Therese","QC","Iristel Inc.","154E",
@@ -24236,7 +24236,7 @@
 581,433,"In Service","Chicoutimi","QC","Bell Aliant, a division of Bell Canada","709G",
 581,434,"In Service","Jonquiere","QC","Bell Aliant, a division of Bell Canada","709G",
 581,435,"In Service","La Baie (Chicoutimi Co.)","QC","Bell Aliant, a division of Bell Canada","709G",
-581,436,"Available",,,,,
+581,436,"Assigned","Maria","QC","Iristel Inc.","154E",
 581,437,"In Service","Riviere-du-Loup","QC","Bell Aliant, a division of Bell Canada","709G",
 581,438,"In Service","St-Felicien","QC","Bell Aliant, a division of Bell Canada","709G",
 581,439,"In Service","Sainte-Anne-des-Monts","QC","Iristel Inc.","346J",
@@ -40246,7 +40246,7 @@
 873,443,"In Service","Wotton","QC","Fibernetics Corporation","464D",
 873,444,"In Service","Aylmer","QC","InnSysVoice Corp","383H",
 873,445,"In Service","Stoke","QC","TELUS Quebec","2243",
-873,446,"Available",,,,,
+873,446,"Assigned","Inukjuak","QC","Iristel Inc.","154E",
 873,447,"Available",,,,,
 873,448,"In Service","Drummondville","QC","Fibernetics Corporation","464D",
 873,449,"Assigned","Gatineau","QC","Bell Canada","8050",
