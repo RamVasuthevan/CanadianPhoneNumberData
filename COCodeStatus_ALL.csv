@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-08-20
+,,,,,,,2024-08-21
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -36097,14 +36097,14 @@
 782,294,"In Service","Springfield","NS","Distributel","081E",
 782,295,"In Service","Springhill","NS","Distributel","081E",
 782,296,"In Service","Stewiacke","NS","Distributel","081E",
-782,297,"Available",,,,,
+782,297,"Assigned","Caledonia","NS","Iristel Inc.","154E",
 782,298,"Available",,,,,
 782,299,"Available",,,,,
 782,300,"In Service","Brookfield","NS","ISP Telecom Inc.","4727",
 782,301,"In Service","Caledonia","NS","ISP Telecom Inc.","4727",
 782,302,"In Service","Barrington","NS","Iristel Inc.","154E",
 782,303,"In Service","Windsor","NS","Iristel Inc.","154E",
-782,304,"Available",,,,,
+782,304,"Assigned","Barrington","NS","Iristel Inc.","154E",
 782,305,"Available",,,,,
 782,306,"Available",,,,,
 782,307,"Available",,,,,
@@ -36501,7 +36501,7 @@
 782,698,"Available",,,,,
 782,699,"Available",,,,,
 782,700,"Available",,,,,
-782,701,"Available",,,,,
+782,701,"Assigned","Halifax","NS","Iristel Inc.","154E",
 782,702,"Available",,,,,
 782,703,"Available",,,,,
 782,704,"Available",,,,,
@@ -36774,7 +36774,7 @@
 782,971,"Available",,,,,
 782,972,"In Service","Yarmouth","NS","Rogers Communications Canada Inc. (Cable)","743B",
 782,973,"Available",,,,,
-782,974,"Available",,,,,
+782,974,"Assigned","Inverness","NS","Iristel Inc.","154E",
 782,975,"Available",,,,,
 782,976,"For Special Use",,,,,"Pay per call service"
 782,977,"In Service","Sydney","NS","Rogers Communications Canada Inc. (Cable)","743B",
