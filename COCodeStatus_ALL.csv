@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-08-21
+,,,,,,,2024-08-22
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -38798,7 +38798,7 @@
 825,595,"In Service","Picture Butte","AB","ISP Telecom Inc.","4727",
 825,596,"In Service","Pincher Creek","AB","ISP Telecom Inc.","4727",
 825,597,"In Service","Raymond","AB","ISP Telecom Inc.","4727",
-825,598,"Available",,,,,
+825,598,"Assigned","Boyle","AB","Iristel Inc.","154E",
 825,599,"Assigned","Vermilion","AB","Iristel Inc.","154E",
 825,600,"In Service","Edmonton","AB","Iristel Inc.","154E",
 825,601,"In Service","Edmonton","AB","Iristel Inc.","154E",
@@ -38968,22 +38968,22 @@
 825,765,"Assigned","Camrose","AB","Videotron Ltd.","328F",
 825,766,"Assigned","Edson","AB","Videotron Ltd.","328F",
 825,767,"Assigned","Stony Plain","AB","Videotron Ltd.","328F",
-825,768,"Available",,,,,
-825,769,"Available",,,,,
+825,768,"Assigned","Calgary","AB","Iristel Inc.","154E",
+825,769,"Assigned","Calgary","AB","Iristel Inc.","154E",
 825,770,"Assigned","Edson","AB","Freedom Mobile Inc.","383F",
 825,771,"Assigned","Stony Plain","AB","Freedom Mobile Inc.","383F",
 825,772,"Available",,,,,
 825,773,"Available",,,,,
-825,774,"Available",,,,,
-825,775,"Available",,,,,
+825,774,"Assigned","Calgary","AB","Iristel Inc.","154E",
+825,775,"Assigned","Calgary","AB","Iristel Inc.","154E",
 825,776,"Available",,,,,
 825,777,"In Service","Edmonton","AB","Rogers Communications Canada Inc. (Wireless)","8821",
 825,778,"Available",,,,,
 825,779,"Available",,,,,
 825,780,"Not Available",,,,,"Home NPA"
 825,781,"Available",,,,,
-825,782,"Available",,,,,
-825,783,"Available",,,,,
+825,782,"Assigned","Grande Cache","AB","Iristel Inc.","154E",
+825,783,"Assigned","Grande Prairie","AB","Iristel Inc.","154E",
 825,784,"Assigned","Canmore","AB","Iristel Inc.","154E",
 825,785,"In Service","Edmonton","AB","Freedom Mobile Inc.","787G",
 825,786,"Available",,,,,
@@ -39020,7 +39020,7 @@
 825,817,"In Service","Langdon","AB","Fibernetics Corporation","464D",
 825,818,"In Service","Banff","AB","Fibernetics Corporation","464D",
 825,819,"In Service","Red Deer","AB","Iristel Inc.","154E",
-825,820,"Available",,,,,"Limited availability - available outside the Lloydminster EAS area"
+825,820,"Assigned","Airdrie","AB","Iristel Inc.","154E","Limited availability - available outside the Lloydminster EAS area"
 825,821,"Available",,,,,"Limited availability - available outside the Lloydminster EAS area"
 825,822,"In Service","Calgary","AB","Rogers Communications Canada Inc. (Wireless)","8821",
 825,823,"In Service","Edmonton","AB","Freedom Mobile Inc.","787G",
@@ -39151,7 +39151,7 @@
 825,948,"Available",,,,,
 825,949,"In Service","Spirit River","AB","Iristel Inc.","154E",
 825,950,"For Special Use",,,,,"F.G. 'B' Access"
-825,951,"Available",,,,,
+825,951,"Assigned","Claresholm","AB","Iristel Inc.","154E",
 825,952,"Available",,,,,
 825,953,"Available",,,,,
 825,954,"Available",,,,,
