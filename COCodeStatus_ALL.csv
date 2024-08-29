@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-08-26
+,,,,,,,2024-08-27
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2730,7 +2730,7 @@
 249,527,"In Service","Alliston","ON","Iristel Inc.","154E",
 249,528,"In Service","Campbellford","ON","Iristel Inc.","154E",
 249,529,"In Service","Campbellford","ON","Iristel Inc.","154E",
-249,530,"Available",,,,,
+249,530,"Assigned","Alliston","ON","Iristel Inc.","154E",
 249,531,"Available",,,,,
 249,532,"Available",,,,,
 249,533,"In Service","Collingwood","ON","Rogers Communications Canada Inc. (Wireless)","8821",
@@ -2747,7 +2747,7 @@
 249,544,"In Service","Barrie","ON","Iristel Inc.","154E",
 249,545,"In Service","Smooth Rock Falls","ON","ExaTEL Inc.","3147",
 249,546,"In Service","Barrie","ON","Iristel Inc.","154E",
-249,547,"Available",,,,,
+249,547,"Assigned","Mattice","ON","ExaTEL Inc.","3147",
 249,548,"Not Available",,,,,"Not available - existing Canadian NPA"
 249,549,"In Service","Huntsville","ON","Fibernetics Corporation","464D","Available outside Penetanguishene EAS"
 249,550,"In Service","Collingwood","ON","Rogers Communications Canada Inc. (Wireless)","8821",
@@ -7459,7 +7459,7 @@
 343,456,"In Service","Embrun","ON","Fibernetics Corporation","464D",
 343,457,"In Service","Plantagenet","ON","Fibernetics Corporation","464D",
 343,458,"In Service","Rockland","ON","Fibernetics Corporation","464D",
-343,459,"Available",,,,,
+343,459,"Assigned","Belleville","ON","Iristel Inc.","154E",
 343,460,"Not Available",,,,,"Not available iaw Section 3.7 of CO Code Guidelines: Future Canadian Geographic NPA"
 343,461,"Available",,,,,
 343,462,"In Service","Ottawa-Hull","ON","TELUS Mobility","8303",
@@ -8987,7 +8987,7 @@
 365,384,"In Service","Hamilton","ON","Bell Mobility","6574",
 365,385,"In Service","Maple","ON","IXICA Communications Inc.","812H",
 365,386,"In Service","Newmarket","ON","Videotron Ltd.","328F",
-365,387,"Available",,,,,
+365,387,"Assigned","Ajax-Pickering","ON","Iristel Inc.","154E",
 365,388,"In Service","Maple","ON","Rogers Communications Canada Inc. (Cable)","743B",
 365,389,"Available",,,,,
 365,390,"In Service","Ajax-Pickering","ON","Bell Mobility","6574",
@@ -9117,7 +9117,7 @@
 365,514,"In Service","Nobleton","ON","Distributel","082E",
 365,515,"In Service","Oak Ridges","ON","Distributel","082E",
 365,516,"In Service","Palgrave","ON","Distributel","082E",
-365,517,"Available",,,,,
+365,517,"Assigned","Bowmanville","ON","Iristel Inc.","154E",
 365,518,"In Service","Port Robinson","ON","ISP Telecom Inc.","4727",
 365,519,"Available",,,,,
 365,520,"In Service","Schomberg","ON","Distributel","082E",
@@ -9244,7 +9244,7 @@
 365,641,"In Service","Schomberg","ON","Beanfield Technologies Inc.","575G",
 365,642,"In Service","Stouffville","ON","Beanfield Technologies Inc.","575G",
 365,643,"In Service","Hamilton","ON","Bell Mobility","6574",
-365,644,"Available",,,,,
+365,644,"Assigned","Brampton","ON","Iristel Inc.","154E",
 365,645,"In Service","Streetsville","ON","Iristel Inc.","154E",
 365,646,"Available",,,,,
 365,647,"Not Available",,,,,"Not available - existing Canadian NPA"
@@ -9429,7 +9429,7 @@
 365,826,"In Service","Richmond Hill","ON","Iristel Inc.","154E",
 365,827,"Available",,,,,
 365,828,"In Service","Bradford","ON","Rogers Communications Canada Inc.","571G",
-365,829,"Available",,,,,
+365,829,"Assigned","Aurora","ON","Iristel Inc.","154E",
 365,830,"In Service","Aurora","ON","Iristel Inc.","154E",
 365,831,"In Service","Aurora","ON","Iristel Inc.","154E",
 365,832,"In Service","Aurora","ON","Iristel Inc.","154E",
@@ -9506,7 +9506,7 @@
 365,903,"Available",,,,,
 365,904,"Assigned","Malton","ON","Iristel Inc.","154E",
 365,905,"Not Available",,,,,"Home NPA"
-365,906,"Available",,,,,
+365,906,"Assigned","Bolton","ON","Iristel Inc.","154E",
 365,907,"In Service","Fisherville","ON","ISP Telecom Inc.","4727",
 365,908,"In Service","Selkirk","ON","ISP Telecom Inc.","4727",
 365,909,"Available",,,,,
