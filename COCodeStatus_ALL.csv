@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-03
+,,,,,,,2024-09-04
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -4380,7 +4380,7 @@
 257,577,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,578,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,579,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,580,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
+257,580,"Available",,,,,
 257,581,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,582,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,583,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4410,7 +4410,7 @@
 257,607,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,608,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,609,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,610,"Moratorium on Assignment",,,,,
+257,610,"Available",,,,,
 257,611,"For Special Use",,,,,"Repair Service"
 257,612,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,613,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4510,7 +4510,7 @@
 257,707,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,708,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,709,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,710,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
+257,710,"Available",,,,,
 257,711,"For Special Use",,,,,"Message Relay"
 257,712,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,713,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4610,7 +4610,7 @@
 257,807,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,808,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,809,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,810,"Moratorium on Assignment",,,,,
+257,810,"Available",,,,,
 257,811,"For Special Use",,,,,"Non-Urgent Heath Care Telephone Triage Services"
 257,812,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,813,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4799,7 +4799,7 @@
 257,996,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,997,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,998,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,999,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
+257,999,"Available",,,,,
 263,200,"In Service","Ile-Perrot","QC","IXICA Communications Inc.","812H",
 263,201,"Available",,,,,
 263,202,"Available",,,,,
@@ -7296,7 +7296,7 @@
 343,293,"In Service","Kingston","ON","Fibernetics Corporation","464D",
 343,294,"In Service","Ottawa-Hull","ON","Zayo Canada Inc.","8304",
 343,295,"In Service","Napanee","ON","Freedom Mobile Inc.","383F",
-343,296,"Available",,,,,
+343,296,"Assigned","Carleton Place","ON","Iristel Inc.","154E",
 343,297,"In Service","Ottawa-Hull","ON","Freedom Mobile Inc.","787G",
 343,298,"In Service","Alfred","ON","ISP Telecom Inc.","4727",
 343,299,"In Service","Cumberland","ON","IXICA Communications Inc.","812H",
@@ -9416,7 +9416,7 @@
 365,813,"In Service","Hampton","ON","Fibernetics Corporation","464D",
 365,814,"In Service","Newtonville","ON","Fibernetics Corporation","464D",
 365,815,"In Service","Orono","ON","Fibernetics Corporation","464D",
-365,816,"Available",,,,,
+365,816,"Assigned","Burlington","ON","Iristel Inc.","154E",
 365,817,"Available",,,,,
 365,818,"In Service","Bolton","ON","Rogers Communications Canada Inc.","571G",
 365,819,"In Service","Richmond Hill","ON","Iristel Inc.","154E",
@@ -11902,7 +11902,7 @@
 382,899,"Available",,,,,
 382,900,"In Service","Strathroy","ON","IXICA Communications Inc.","812H",
 382,901,"In Service","Brantford","ON","Iristel Inc.","154E",
-382,902,"Available",,,,,
+382,902,"Assigned","Brantford","ON","Iristel Inc.","154E",
 382,903,"Available",,,,,
 382,904,"Available",,,,,
 382,905,"Available",,,,,
@@ -22633,7 +22633,7 @@
 548,430,"Available",,,,,
 548,431,"Available",,,,,
 548,432,"Available",,,,,
-548,433,"Available",,,,,
+548,433,"Assigned","Goderich","ON","Fibernetics Corporation","464D",
 548,434,"In Service","Owen Sound","ON","Fibernetics Corporation","464D",
 548,435,"In Service","Beachville","ON","Fibernetics Corporation","464D",
 548,436,"In Service","Bright","ON","Fibernetics Corporation","464D",
@@ -22997,7 +22997,7 @@
 548,794,"Available",,,,,
 548,795,"Available",,,,,
 548,796,"Available",,,,,
-548,797,"Available",,,,,
+548,797,"Assigned","Chatham","ON","Iristel Inc.","154E",
 548,798,"In Service","Chatham","ON","Iristel Inc.","154E",
 548,799,"In Service","Pelee Island","ON","IXICA Communications Inc.","812H",
 548,800,"In Service","Brantford","ON","Iristel Inc.","154E",
@@ -30042,7 +30042,7 @@
 672,639,"Available",,,,,
 672,640,"Available",,,,,
 672,641,"Available",,,,,
-672,642,"Available",,,,,
+672,642,"Assigned","Burns Lake","BC","CityWest Cable (North) Corp - BC","705F",
 672,643,"Assigned","Mackenzie","BC","CityWest Cable (North) Corp - BC","705F",
 672,644,"In Service","Kitwanga","BC","CityWest Cable (North) Corp - BC","705F",
 672,645,"In Service","Vanderhoof","BC","CityWest Cable (North) Corp - BC","705F",
@@ -30107,7 +30107,7 @@
 672,704,"In Service","Cranbrook","BC","Iristel Inc.","154E",
 672,705,"In Service","Cranbrook","BC","Iristel Inc.","154E",
 672,706,"Available",,,,,
-672,707,"Available",,,,,
+672,707,"Assigned","South Kamloops","BC","TELUS Mobility","8301",
 672,708,"Available",,,,,
 672,709,"Available",,,,,
 672,710,"Available",,,,,
