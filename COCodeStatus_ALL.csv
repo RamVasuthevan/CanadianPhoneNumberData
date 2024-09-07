@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-04
+,,,,,,,2024-09-05
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -4380,7 +4380,7 @@
 257,577,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,578,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,579,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,580,"Available",,,,,
+257,580,"New NPA Testing","Kelowna","BC","TELUS Mobility","8301",
 257,581,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,582,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,583,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4799,7 +4799,7 @@
 257,996,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,997,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,998,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,999,"Available",,,,,
+257,999,"New NPA Testing","Vancouver","BC","TELUS Mobility","8301",
 263,200,"In Service","Ile-Perrot","QC","IXICA Communications Inc.","812H",
 263,201,"Available",,,,,
 263,202,"Available",,,,,
