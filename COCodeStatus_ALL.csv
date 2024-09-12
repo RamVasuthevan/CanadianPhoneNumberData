@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-09
+,,,,,,,2024-09-10
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -4410,7 +4410,7 @@
 257,607,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,608,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,609,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,610,"Available",,,,,
+257,610,"New NPA Testing","Vancouver","BC","TELUS","8086",
 257,611,"For Special Use",,,,,"Repair Service"
 257,612,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,613,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4510,7 +4510,7 @@
 257,707,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,708,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,709,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,710,"Available",,,,,
+257,710,"New NPA Testing","Victoria","BC","TELUS","8086",
 257,711,"For Special Use",,,,,"Message Relay"
 257,712,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,713,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
@@ -4610,7 +4610,7 @@
 257,807,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,808,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,809,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
-257,810,"Available",,,,,
+257,810,"New NPA Testing","Kelowna","BC","TELUS","8086",
 257,811,"For Special Use",,,,,"Non-Urgent Heath Care Telephone Triage Services"
 257,812,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
 257,813,"New NPA",,,,,"Code available for assignment 6 months before NPA Relief Date - Effective date must be on or after NPA Relief Date"
