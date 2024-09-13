@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-10
+,,,,,,,2024-09-11
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -30322,7 +30322,7 @@
 672,919,"Available",,,,,
 672,920,"Available",,,,,
 672,921,"Available",,,,,
-672,922,"Available",,,,,
+672,922,"Assigned","Victoria","BC","TELUS Mobility","8301",
 672,923,"Available",,,,,
 672,924,"Available",,,,,
 672,925,"Available",,,,,
@@ -32847,7 +32847,7 @@
 742,244,"In Service","Streetsville","ON","FGLTEL Inc.","139J",
 742,245,"In Service","Cooksville","ON","FGLTEL Inc.","139J",
 742,246,"In Service","Clarkson","ON","FGLTEL Inc.","139J",
-742,247,"Available",,,,,
+742,247,"Assigned","Brampton","ON","TELUS Mobility","8303",
 742,248,"In Service","Victoria","ON","FGLTEL Inc.","139J",
 742,249,"Not Available",,,,,"Not available - existing Canadian NPA"
 742,250,"Available",,,,,
@@ -40773,7 +40773,7 @@
 873,970,"In Service","St-Malo","QC","IXICA Communications Inc.","812H",
 873,971,"In Service","Gatineau","QC","Bell Canada","8050",
 873,972,"Available",,,,,
-873,973,"Available",,,,,
+873,973,"Assigned","Ottawa-Hull","QC","TELUS Mobility","8303",
 873,974,"In Service","Ottawa-Hull","QC","Bell Canada","8050",
 873,975,"Available",,,,,
 873,976,"For Special Use",,,,,"Pay per call service"
