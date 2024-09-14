@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-11
+,,,,,,,2024-09-12
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2731,7 +2731,7 @@
 249,528,"In Service","Campbellford","ON","Iristel Inc.","154E",
 249,529,"In Service","Campbellford","ON","Iristel Inc.","154E",
 249,530,"Assigned","Alliston","ON","Iristel Inc.","154E",
-249,531,"Available",,,,,
+249,531,"Assigned","Campbellford","ON","Iristel Inc.","154E",
 249,532,"Available",,,,,
 249,533,"In Service","Collingwood","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 249,534,"Available",,,,,
