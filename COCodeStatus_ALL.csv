@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-12
+,,,,,,,2024-09-13
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2681,7 +2681,7 @@
 249,478,"In Service","Huntsville","ON","ISP Telecom Inc.","4727",
 249,479,"In Service","Sault Ste. Marie","ON","ISP Telecom Inc.","4727",
 249,480,"In Service","Haliburton","ON","Iristel Inc.","154E",
-249,481,"Available",,,,,
+249,481,"Assigned","Collingwood","ON","Iristel Inc.","154E",
 249,482,"In Service","Bracebridge","ON","Iristel Inc.","154E",
 249,483,"In Service","Borden-Angus","ON","Iristel Inc.","154E",
 249,484,"In Service","Udora","ON","ExaTEL Inc.","3147",
@@ -8989,7 +8989,7 @@
 365,386,"In Service","Newmarket","ON","Videotron Ltd.","328F",
 365,387,"Assigned","Ajax-Pickering","ON","Iristel Inc.","154E",
 365,388,"In Service","Maple","ON","Rogers Communications Canada Inc. (Cable)","743B",
-365,389,"Available",,,,,
+365,389,"Assigned","Cobourg","ON","Iristel Inc.","154E",
 365,390,"In Service","Ajax-Pickering","ON","Bell Mobility","6574",
 365,391,"In Service","Oshawa","ON","Iristel Inc.","154E",
 365,392,"In Service","Oshawa","ON","Iristel Inc.","154E",
@@ -11458,7 +11458,7 @@
 382,455,"Available",,,,,
 382,456,"Available",,,,,
 382,457,"In Service","Clinton","ON","Iristel Inc.","154E",
-382,458,"Available",,,,,
+382,458,"Assigned","Clinton","ON","Iristel Inc.","154E",
 382,459,"Available",,,,,
 382,460,"Not Available",,,,,"Not available - reserved for future NPA relief in SW Ontario iaw CRTC Decision 2013-575"
 382,461,"Available",,,,,
@@ -33324,7 +33324,7 @@
 742,721,"Available",,,,,
 742,722,"Available",,,,,
 742,723,"Available",,,,,
-742,724,"Available",,,,,
+742,724,"Assigned","Cooksville","ON","Iristel Inc.","154E",
 742,725,"Available",,,,,
 742,726,"Available",,,,,
 742,727,"Available",,,,,
@@ -38782,7 +38782,7 @@
 825,579,"In Service","Calgary","AB","Iristel Inc.","346J",
 825,580,"In Service","Calgary","AB","TELUS Mobility","8301",
 825,581,"Available",,,,,
-825,582,"Assigned","Edmonton","AB","TELUS Mobility","8301",
+825,582,"In Service","Edmonton","AB","TELUS Mobility","8301",
 825,583,"Available",,,,,
 825,584,"Available",,,,,
 825,585,"In Service","Bear Canyon","AB","ISP Telecom Inc.","4727",
