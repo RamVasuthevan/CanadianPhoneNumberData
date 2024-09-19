@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-16
+,,,,,,,2024-09-17
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -15791,7 +15791,7 @@
 431,788,"In Service","Winnipeg","MB","Rogers Communications Canada Inc. (Wireless)","8821",
 431,789,"Available",,,,,
 431,790,"Available",,,,,
-431,791,"Available",,,,,
+431,791,"Assigned","Winnipeg","MB","TELUS Mobility","8303",
 431,792,"In Service","Winnipeg","MB","TELUS Mobility","8303",
 431,793,"Available",,,,,
 431,794,"Available",,,,,
@@ -16257,7 +16257,7 @@
 437,454,"In Service","Toronto","ON","Bell Mobility","6574",
 437,455,"In Service","Toronto","ON","Bell Mobility","6574",
 437,456,"Available",,,,,
-437,457,"Available",,,,,
+437,457,"Assigned","Toronto","ON","TELUS Mobility","8303",
 437,458,"Available",,,,,
 437,459,"Available",,,,,
 437,460,"In Service","Toronto","ON","Freedom Mobile Inc.","787G",
@@ -16597,7 +16597,7 @@
 437,794,"Available",,,,,
 437,795,"Available",,,,,
 437,796,"Available",,,,,
-437,797,"Available",,,,,
+437,797,"Assigned","Toronto","ON","TELUS Mobility","8303",
 437,798,"Available",,,,,
 437,799,"In Service","Toronto","ON","Fido Solutions Inc.","5643",
 437,800,"In Service","Toronto","ON","Iristel Inc.","154E",
@@ -16707,7 +16707,7 @@
 437,904,"Available",,,,,
 437,905,"Available",,,,,
 437,906,"Available",,,,,
-437,907,"Available",,,,,
+437,907,"Assigned","Toronto","ON","TELUS Mobility","8303",
 437,908,"In Service","Toronto","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 437,909,"Available",,,,,
 437,910,"Available",,,,,
