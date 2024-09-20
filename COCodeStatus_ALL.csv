@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-17
+,,,,,,,2024-09-18
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2621,7 +2621,7 @@
 249,418,"In Service","Trout Creek","ON","Fibernetics Corporation","464D",
 249,419,"In Service","Verner","ON","Fibernetics Corporation","464D",
 249,420,"In Service","Gravenhurst","ON","Fibernetics Corporation","464D",
-249,421,"Available",,,,,"Available outside Chelmsford EAS"
+249,421,"Assigned","Espanola","ON","Iristel Inc.","154E","Available outside Chelmsford EAS"
 249,422,"In Service","Bracebridge","ON","Distributel","082E",
 249,423,"In Service","Gravenhurst","ON","Distributel","082E",
 249,424,"In Service","Alliston","ON","ExaTEL Inc.","3147",
@@ -22491,7 +22491,7 @@
 548,288,"In Service","Kitchener-Waterloo","ON","Rogers Communications Canada Inc. (Cable)","743B",
 548,289,"In Service","Bothwell","ON","ISP Telecom Inc.","4727",
 548,290,"In Service","Durham","ON","Iristel Inc.","154E",
-548,291,"Available",,,,,
+548,291,"Assigned","Durham","ON","Iristel Inc.","154E",
 548,292,"In Service","Windsor","ON","Fibernetics Corporation","464D",
 548,293,"In Service","Walkerton","ON","Iristel Inc.","154E",
 548,294,"In Service","Simcoe","ON","Videotron Ltd.","328F",
@@ -22607,7 +22607,7 @@
 548,404,"Available",,,,,
 548,405,"In Service","Listowel","ON","Videotron Ltd.","328F",
 548,406,"In Service","Essex","ON","Iristel Inc.","154E",
-548,407,"Available",,,,,
+548,407,"Assigned","Essex","ON","Iristel Inc.","154E",
 548,408,"In Service","Guelph","ON","IXICA Communications Inc.","812H",
 548,409,"In Service","Goderich","ON","Iristel Inc.","154E",
 548,410,"In Service","Goderich","ON","Iristel Inc.","154E",
@@ -37509,7 +37509,7 @@
 807,906,"Available",,,,,
 807,907,"In Service","Devlin","ON","Iristel Inc.","154E",
 807,908,"In Service","Devlin","ON","Iristel Inc.","154E",
-807,909,"Available",,,,,
+807,909,"Assigned","Devlin","ON","Iristel Inc.","154E",
 807,910,"Available",,,,,
 807,911,"For Special Use",,,,,"Emergency Service"
 807,912,"Available",,,,,
