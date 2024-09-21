@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-18
+,,,,,,,2024-09-19
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -36446,7 +36446,7 @@
 782,643,"In Service","Shubenacadie","NS","Fibernetics Corporation","464D",
 782,644,"In Service","Truro","NS","Fibernetics Corporation","464D",
 782,645,"In Service","Windsor","NS","Fibernetics Corporation","464D",
-782,646,"Available",,,,,
+782,646,"Assigned","Halifax","NS","Fibernetics Corporation","464D",
 782,647,"Available",,,,,
 782,648,"Available",,,,,
 782,649,"Available",,,,,
@@ -37399,13 +37399,13 @@
 807,796,"Available",,,,,
 807,797,"In Service","Fort Frances","ON","Iristel Inc.","154E",
 807,798,"In Service","Fort Frances","ON","Iristel Inc.","154E",
-807,799,"Available",,,,,
+807,799,"Assigned","Fort Frances","ON","Iristel Inc.","154E",
 807,800,"Available",,,,,
 807,801,"In Service","Nipigon","ON","Bell Mobility","6574",
 807,802,"Available",,,,,
 807,803,"Available",,,,,
 807,804,"Available",,,,,
-807,805,"Available",,,,,
+807,805,"Assigned","Geraldton","ON","Iristel Inc.","154E",
 807,806,"In Service","Geraldton","ON","Iristel Inc.","154E",
 807,807,"Not Available",,,,,"Home NPA"
 807,808,"In Service","Hudson","ON","Iristel Inc.","154E",
