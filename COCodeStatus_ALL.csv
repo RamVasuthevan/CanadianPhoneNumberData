@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-19
+,,,,,,,2024-09-20
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2668,14 +2668,14 @@
 249,465,"In Service","Goulais","ON","Fibernetics Corporation","464D",
 249,466,"In Service","Iron Bridge","ON","Fibernetics Corporation","464D",
 249,467,"In Service","Ophir","ON","Fibernetics Corporation","464D",
-249,468,"Available",,,,,
+249,468,"Assigned","Gravenhurst","ON","Iristel Inc.","154E",
 249,469,"In Service","Searchmont","ON","Fibernetics Corporation","464D",
 249,470,"In Service","St. Joseph Island","ON","Fibernetics Corporation","464D",
 249,471,"In Service","Thessalon","ON","Fibernetics Corporation","464D",
 249,472,"Available",,,,,
 249,473,"Available",,,,,"Available outside Peawanuck EAS"
 249,474,"Available",,,,,
-249,475,"Available",,,,,
+249,475,"Assigned","Gore Bay","ON","Iristel Inc.","154E",
 249,476,"In Service","Foleyet","ON","Iristel Inc.","154E",
 249,477,"In Service","Lindsay","ON","ISP Telecom Inc.","4727",
 249,478,"In Service","Huntsville","ON","ISP Telecom Inc.","4727",
@@ -36898,7 +36898,7 @@
 807,295,"In Service","Schreiber","ON","Shaw Telecom Inc.","497E",
 807,296,"In Service","Terrace Bay","ON","Shaw Telecom Inc.","497E",
 807,297,"In Service","White River","ON","Shaw Telecom Inc.","497E",
-807,298,"Available",,,,,
+807,298,"Assigned","Manitouwadge","ON","Shaw Telecom Inc.","497E",
 807,299,"Available",,,,,
 807,300,"In Service","Thunder Bay","ON","Iristel Inc.","154E",
 807,301,"In Service","Thunder Bay","ON","Iristel Inc.","154E",
