@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-23
+,,,,,,,2024-09-25
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2780,7 +2780,7 @@
 249,577,"In Service","Norwood","ON","ISP Telecom Inc.","4727",
 249,578,"Available",,,,,
 249,579,"Available",,,,,
-249,580,"Available",,,,,
+249,580,"Assigned","Haliburton","ON","Iristel Inc.","154E",
 249,581,"Available",,,,,
 249,582,"Available",,,,,
 249,583,"Available",,,,,
@@ -2879,7 +2879,7 @@
 249,676,"In Service","Sebright","ON","Fibernetics Corporation","464D",
 249,677,"In Service","Waubaushene","ON","Fibernetics Corporation","464D",
 249,678,"Available",,,,,
-249,679,"Available",,,,,
+249,679,"Assigned","Huntsville","ON","Iristel Inc.","154E",
 249,680,"In Service","Peterborough","ON","Iristel Inc.","154E",
 249,681,"In Service","Peterborough","ON","Iristel Inc.","154E",
 249,682,"Available",,,,,
@@ -9396,7 +9396,7 @@
 365,793,"Available",,,,,
 365,794,"Available",,,,,
 365,795,"In Service","Hamilton","ON","Iristel Inc.","154E",
-365,796,"Available",,,,,
+365,796,"Assigned","Hamilton","ON","Iristel Inc.","154E",
 365,797,"In Service","Grimsby","ON","Iristel Inc.","154E",
 365,798,"Available",,,,,
 365,799,"In Service","Oshawa","ON","Iristel Inc.","154E",
@@ -22962,7 +22962,7 @@
 548,759,"Available",,,,,
 548,760,"Available",,,,,
 548,761,"In Service","Guelph","ON","Iristel Inc.","154E",
-548,762,"Available",,,,,
+548,762,"Assigned","Guelph","ON","Iristel Inc.","154E",
 548,763,"Available",,,,,
 548,764,"Available",,,,,
 548,765,"Available",,,,,
@@ -37404,7 +37404,7 @@
 807,801,"In Service","Nipigon","ON","Bell Mobility","6574",
 807,802,"Available",,,,,
 807,803,"Available",,,,,
-807,804,"Available",,,,,
+807,804,"Assigned","Hudson","ON","Iristel Inc.","154E",
 807,805,"Assigned","Geraldton","ON","Iristel Inc.","154E",
 807,806,"In Service","Geraldton","ON","Iristel Inc.","154E",
 807,807,"Not Available",,,,,"Home NPA"
