@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-25
+,,,,,,,2024-09-26
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -2779,7 +2779,7 @@
 249,576,"In Service","Bridgenorth","ON","ISP Telecom Inc.","4727",
 249,577,"In Service","Norwood","ON","ISP Telecom Inc.","4727",
 249,578,"Available",,,,,
-249,579,"Available",,,,,
+249,579,"Assigned","Midland","ON","Iristel Inc.","154E",
 249,580,"Assigned","Haliburton","ON","Iristel Inc.","154E",
 249,581,"Available",,,,,
 249,582,"Available",,,,,
@@ -3008,7 +3008,7 @@
 249,805,"In Service","Sudbury","ON","Iristel Inc.","154E",
 249,806,"In Service","Sudbury","ON","Iristel Inc.","154E",
 249,807,"Not Available",,,,,"Not available - existing Canadian NPA"
-249,808,"Available",,,,,
+249,808,"Assigned","Markstay","ON","Iristel Inc.","154E",
 249,809,"Available",,,,,
 249,810,"Moratorium on Assignment",,,,,
 249,811,"For Special Use",,,,,"Non-Urgent Heath Care Telephone Triage Services"
@@ -9217,7 +9217,7 @@
 365,614,"Available",,,,,
 365,615,"In Service","Thornhill","ON","Iristel Inc.","154E",
 365,616,"In Service","Hamilton","ON","Beanfield Technologies Inc.","575G",
-365,617,"Available",,,,,
+365,617,"Assigned","Maple","ON","Iristel Inc.","154E",
 365,618,"Available",,,,,
 365,619,"Available",,,,,
 365,620,"Available",,,,,
@@ -22527,7 +22527,7 @@
 548,324,"In Service","Leamington","ON","Gosfield North Communication Co-operative Ltd.","117H",
 548,325,"In Service","Listowel","ON","Iristel Inc.","154E",
 548,326,"In Service","Dresden","ON","ISP Telecom Inc.","4727",
-548,327,"Available",,,,,
+548,327,"Assigned","Listowel","ON","Iristel Inc.","154E",
 548,328,"In Service","Brantford","ON","Bell Mobility","6574",
 548,329,"Available",,,,,
 548,330,"In Service","Ilderton","ON","Rogers Communications Canada Inc. (Cable)","743B",
@@ -37101,7 +37101,7 @@
 807,498,"Available",,,,,
 807,499,"Available",,,,,
 807,500,"In Service","Marathon","ON","Iristel Inc.","154E",
-807,501,"Available",,,,,
+807,501,"Assigned","Marathon","ON","Iristel Inc.","154E",
 807,502,"Available",,,,,
 807,503,"Available",,,,,
 807,504,"Available",,,,,
@@ -38972,7 +38972,7 @@
 825,769,"Assigned","Calgary","AB","Iristel Inc.","154E",
 825,770,"Assigned","Edson","AB","Freedom Mobile Inc.","383F",
 825,771,"Assigned","Stony Plain","AB","Freedom Mobile Inc.","383F",
-825,772,"Available",,,,,
+825,772,"Assigned","Edmonton","AB","TELUS Mobility","8301",
 825,773,"Available",,,,,
 825,774,"Assigned","Calgary","AB","Iristel Inc.","154E",
 825,775,"Assigned","Calgary","AB","Iristel Inc.","154E",
