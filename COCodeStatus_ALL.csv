@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-09-29
+,,,,,,,2024-09-30
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -9223,7 +9223,7 @@
 365,620,"Available",,,,,
 365,621,"Available",,,,,
 365,622,"In Service","Kleinburg","ON","Rogers Communications Canada Inc.","571G",
-365,623,"Available",,,,,
+365,623,"Assigned","Niagara Falls","ON","Iristel Inc.","154E",
 365,624,"Available",,,,,
 365,625,"In Service","Thornhill","ON","Iristel Inc.","154E",
 365,626,"Available",,,,,
@@ -9427,7 +9427,7 @@
 365,824,"In Service","Keswick","ON","ISP Telecom Inc.","4727",
 365,825,"In Service","Newmarket","ON","Iristel Inc.","154E",
 365,826,"In Service","Richmond Hill","ON","Iristel Inc.","154E",
-365,827,"Available",,,,,
+365,827,"Assigned","Newmarket","ON","Iristel Inc.","154E",
 365,828,"In Service","Bradford","ON","Rogers Communications Canada Inc.","571G",
 365,829,"Assigned","Aurora","ON","Iristel Inc.","154E",
 365,830,"In Service","Aurora","ON","Iristel Inc.","154E",
@@ -22787,7 +22787,7 @@
 548,584,"In Service","Orangeville","ON","Iristel Inc.","154E",
 548,585,"In Service","Stratford","ON","Rogers Communications Canada Inc.","571G",
 548,586,"In Service","St. Thomas","ON","Iristel Inc.","154E",
-548,587,"Available",,,,,
+548,587,"Assigned","Orangeville","ON","Iristel Inc.","154E",
 548,588,"In Service","London","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 548,589,"Available",,,,,
 548,590,"In Service","Wellesley","ON","IXICA Communications Inc.","812H",
@@ -32967,7 +32967,7 @@
 742,364,"Available",,,,,
 742,365,"Not Available",,,,,"Home NPA"
 742,366,"Available",,,,,
-742,367,"Available",,,,,
+742,367,"Assigned","Niagara-On-The-Lake","ON","Iristel Inc.","154E",
 742,368,"In Service","Aurora","ON","FGLTEL Inc.","139J",
 742,369,"In Service","Bethesda","ON","FGLTEL Inc.","139J",
 742,370,"In Service","Bolton","ON","FGLTEL Inc.","139J",
@@ -38979,7 +38979,7 @@
 825,776,"Available",,,,,
 825,777,"In Service","Edmonton","AB","Rogers Communications Canada Inc. (Wireless)","8821",
 825,778,"Available",,,,,
-825,779,"Available",,,,,
+825,779,"Assigned","Calgary","AB","TELUS Mobility","8301",
 825,780,"Not Available",,,,,"Home NPA"
 825,781,"Available",,,,,
 825,782,"Assigned","Grande Cache","AB","Iristel Inc.","154E",
