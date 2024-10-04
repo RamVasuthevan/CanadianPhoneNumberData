@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-10-01
+,,,,,,,2024-10-02
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -39700,8 +39700,8 @@
 867,697,"Available",,,,,
 867,698,"Available",,,,,
 867,699,"In Service","Fort Providence","NT","Northwestel","8092",
-867,700,"Available",,,,,
-867,701,"Available",,,,,
+867,700,"Assigned","Whitehorse","YT","Iristel Inc.","346J",
+867,701,"Assigned","Whitehorse","YT","Iristel Inc.","346J",
 867,702,"Available",,,,,
 867,703,"Available",,,,,
 867,704,"Available",,,,,
