@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-10-02
+,,,,,,,2024-10-03
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -7979,7 +7979,7 @@
 343,976,"For Special Use",,,,,"Pay per call service"
 343,977,"Available",,,,,
 343,978,"Available",,,,,
-343,979,"Available",,,,,
+343,979,"Assigned","Ottawa-Hull","ON","TELUS Mobility","8303",
 343,980,"In Service","Petawawa","ON","Freedom Mobile Inc.","383F",
 343,981,"Available",,,,,
 343,982,"In Service","Brockville","ON","Rogers Communications Canada Inc. (Cable)","743B",
@@ -11887,7 +11887,7 @@
 382,884,"Available",,,,,
 382,885,"In Service","Kitchener-Waterloo","ON","Fido Solutions Inc.","5643",
 382,886,"Assigned","Port Dover","ON","Rogers Communications Canada Inc. (Cable)","743B",
-382,887,"Available",,,,,
+382,887,"Assigned","Chatham","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 382,888,"In Service","Parkhill","ON","IXICA Communications Inc.","812H",
 382,889,"In Service","Kitchener-Waterloo","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 382,890,"Available",,,,,
@@ -30179,7 +30179,7 @@
 672,776,"Available",,,,,
 672,777,"In Service","West Vancouver","BC","IXICA Communications Inc.","812H",
 672,778,"Not Available",,,,,"Home NPA"
-672,779,"Available",,,,,
+672,779,"Assigned","Hope","BC","Rogers Communications Canada Inc. (Wireless)","8821",
 672,780,"Available",,,,,
 672,781,"Available",,,,,
 672,782,"Available",,,,,
@@ -31082,7 +31082,7 @@
 683,879,"Available",,,,,
 683,880,"Assigned","Peterborough","ON","Rogers Communications Canada Inc. (Cable)","743B",
 683,881,"Assigned","Barrie","ON","Rogers Communications Canada Inc. (Wireless)","8821",
-683,882,"Available",,,,,
+683,882,"Assigned","Peterborough","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 683,883,"Available",,,,,
 683,884,"Available",,,,,
 683,885,"Available",,,,,
@@ -34283,7 +34283,7 @@
 753,880,"In Service","Arnprior","ON","Rogers Communications Canada Inc. (Cable)","743B",
 753,881,"In Service","Ottawa-Hull","ON","Fido Solutions Inc.","5643",
 753,882,"Assigned","Renfrew","ON","Rogers Communications Canada Inc. (Cable)","743B",
-753,883,"Available",,,,,
+753,883,"Assigned","Cornwall","ON","Rogers Communications Canada Inc. (Wireless)","8821",
 753,884,"Available",,,,,
 753,885,"Available",,,,,
 753,886,"In Service","Ottawa-Hull","ON","Fido Solutions Inc.","5643",
