@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-10-03
+,,,,,,,2024-10-04
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -10978,7 +10978,7 @@
 368,775,"Available",,,,,
 368,776,"Available",,,,,
 368,777,"In Service","Bragg Creek","AB","IXICA Communications Inc.","812H",
-368,778,"Available",,,,,
+368,778,"Assigned","Edmonton","AB","Fido Solutions Inc.","5643",
 368,779,"Available",,,,,
 368,780,"Not Available",,,,,"Home NPA"
 368,781,"Available",,,,,
@@ -11077,7 +11077,7 @@
 368,874,"Available",,,,,
 368,875,"Available",,,,,
 368,876,"Available",,,,,
-368,877,"Available",,,,,
+368,877,"Assigned","Calgary","AB","Fido Solutions Inc.","5643",
 368,878,"Available",,,,,
 368,879,"Available",,,,,
 368,880,"In Service","Edmonton","AB","Rogers Communications Canada Inc. (Wireless)","8821",
@@ -38978,7 +38978,7 @@
 825,775,"Assigned","Calgary","AB","Iristel Inc.","154E",
 825,776,"Available",,,,,
 825,777,"In Service","Edmonton","AB","Rogers Communications Canada Inc. (Wireless)","8821",
-825,778,"Available",,,,,
+825,778,"Assigned","Lethbridge","AB","Fido Solutions Inc.","5643",
 825,779,"Assigned","Calgary","AB","TELUS Mobility","8301",
 825,780,"Not Available",,,,,"Home NPA"
 825,781,"Available",,,,,
