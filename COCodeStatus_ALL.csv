@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-10-08
+,,,,,,,2024-10-09
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -7802,7 +7802,7 @@
 343,799,"In Service","Metcalfe","ON","IXICA Communications Inc.","812H",
 343,800,"In Service","Smiths Falls","ON","Iristel Inc.","154E",
 343,801,"In Service","Smiths Falls","ON","Iristel Inc.","154E",
-343,802,"Available",,,,,
+343,802,"Assigned","Smiths Falls","ON","Iristel Inc.","154E",
 343,803,"In Service","Ottawa-Hull","ON","Iristel Inc.","154E",
 343,804,"In Service","Ottawa-Hull","ON","Iristel Inc.","154E",
 343,805,"In Service","Ottawa-Hull","ON","Iristel Inc.","154E",
@@ -22706,7 +22706,7 @@
 548,503,"Assigned","Orangeville","ON","Freedom Mobile Inc.","383F",
 548,504,"Assigned","Sarnia","ON","Freedom Mobile Inc.","383F",
 548,505,"In Service","Owen Sound","ON","Iristel Inc.","154E",
-548,506,"Available",,,,,
+548,506,"Assigned","Owen Sound","ON","Iristel Inc.","154E",
 548,507,"In Service","Highgate","ON","ISP Telecom Inc.","4727",
 548,508,"In Service","London","ON","IXICA Communications Inc.","812H",
 548,509,"In Service","Plattsville","ON","ISP Telecom Inc.","4727",
@@ -22789,7 +22789,7 @@
 548,586,"In Service","St. Thomas","ON","Iristel Inc.","154E",
 548,587,"Assigned","Orangeville","ON","Iristel Inc.","154E",
 548,588,"In Service","London","ON","Rogers Communications Canada Inc. (Wireless)","8821",
-548,589,"Available",,,,,
+548,589,"Assigned","St. Thomas","ON","Iristel Inc.","154E",
 548,590,"In Service","Wellesley","ON","IXICA Communications Inc.","812H",
 548,591,"Available",,,,,
 548,592,"Available",,,,,
@@ -32876,7 +32876,7 @@
 742,273,"Available",,,,,
 742,274,"Available",,,,,
 742,275,"Available",,,,,
-742,276,"Available",,,,,
+742,276,"Assigned","South Pickering","ON","Iristel Inc.","154E",
 742,277,"In Service","Port Credit","ON","FGLTEL Inc.","139J",
 742,278,"Available",,,,,
 742,279,"Available",,,,,
