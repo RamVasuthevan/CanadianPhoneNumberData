@@ -1,5 +1,5 @@
 "NPA","CO Code (NXX)","Status","Exchange Area","Province","Company","OCN","Remarks"
-,,,,,,,2024-10-09
+,,,,,,,2024-10-10
 204,200,"In Service","Winnipeg","MB","ISP Telecom Inc.","4727",
 204,201,"In Service","Winnipeg","MB","Zayo Canada Inc.","8304",
 204,202,"In Service","Winnipeg","MB","Fibernetics Corporation","464D",
@@ -22631,8 +22631,8 @@
 548,428,"In Service","Sombra","ON","ISP Telecom Inc.","4727",
 548,429,"Available",,,,,
 548,430,"Available",,,,,
-548,431,"Available",,,,,
-548,432,"Available",,,,,
+548,431,"Assigned","Caledon","ON","Fibernetics Corporation","464D",
+548,432,"Assigned","Erin","ON","Fibernetics Corporation","464D",
 548,433,"Assigned","Goderich","ON","Fibernetics Corporation","464D",
 548,434,"In Service","Owen Sound","ON","Fibernetics Corporation","464D",
 548,435,"In Service","Beachville","ON","Fibernetics Corporation","464D",
@@ -23177,7 +23177,7 @@
 548,974,"In Service","London","ON","Fibernetics Corporation","464D",
 548,975,"In Service","Strathroy","ON","Fibernetics Corporation","464D",
 548,976,"For Special Use",,,,,"Pay per call service"
-548,977,"Available",,,,,
+548,977,"Assigned","Kitchener-Waterloo","ON","Fibernetics Corporation","464D",
 548,978,"Assigned","Orangeville","ON","Fibernetics Corporation","464D",
 548,979,"Available",,,,,
 548,980,"In Service","Goderich","ON","Rogers Communications Canada Inc. (Cable)","743B",
